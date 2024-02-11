@@ -19,7 +19,7 @@ parent: 設定
 * [桌面圖片](#桌面圖片)
 * [螢幕截圖](#螢幕截圖)
 * [音量控制](#音量控制)
-* [螢幕亮度控制](#螢幕亮度控制)
+* [螢幕控制](#螢幕控制)
 
 
 ## 設定檔
@@ -91,8 +91,9 @@ parent: 設定
 | [音量控制](keybind/volume-control) |
 
 
-## 螢幕亮度控制
+## 螢幕控制
 
 | 主題 |
 | --- |
+| [螢幕解析度控制](keybind/monitor-resolution-control) |
 | [螢幕亮度控制](keybind/monitor-brightness-control) |
