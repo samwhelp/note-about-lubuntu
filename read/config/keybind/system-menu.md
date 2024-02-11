@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 顯示「視窗操作選單」
 
-* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/MenuClient.php)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/MenuClient.php#L3-L7)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -21,7 +21,30 @@ grand_parent: 設定
 > 也可以在「視窗標題列」使用「滑鼠右鍵」，就會顯示「視窗操作選單」。
 
 
-## 顯示「桌面操作選單」
+
+
+## 顯示「Runner 對話框 (Lxqt)」
+
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf#L15-L18)
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+| `Alt + F2`  | 顯示「Runner 對話框」 | `path=/runner/show_hide_dialog` (Lxqt) |
+
+
+
+
+## 顯示「主要功能選單 (Lxqt)」
+
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf#L10-L13)
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+| `Alt + F1`  | 顯示「主要功能選單」 | `path=/panel/mainmenu/show_hide` (Lxqt) |
+
+
+
+## 顯示「主要功能選單 (Openbox)」
 
 * [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/MenuRoot.php)
 
@@ -29,7 +52,7 @@ grand_parent: 設定
 | ----------------- | ------------ | -------------------- |
 | `Win + Space`  | 顯示「主要功能選單」 | `root-menu` (openbox 內建) |
 
-> 也可以在「桌面」使用「滑鼠右鍵」，就會顯示「主要功能選單」。
+
 
 
 ## 顯示「工作空間操作選單」
@@ -38,6 +61,6 @@ grand_parent: 設定
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Win + c`  | 顯示「桌面操作選單」 | `client-list-combined-menu` (openbox 內建) |
+| `Win + c`  | 顯示「工作空間操作選單」 | `client-list-combined-menu` (openbox 內建) |
+| `Alt + F3`  | 顯示「工作空間操作選單」 | `client-list-combined-menu` (openbox 內建) |
 
-> 也可以在「桌面」使用「滑鼠中鍵」，就會顯示「工作空間操作選單」。
