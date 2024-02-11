@@ -1,6 +1,6 @@
 ---
 title: 視窗平鋪移動操作 (方向鍵)
-nav_order: 5031
+nav_order: 5036
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定
