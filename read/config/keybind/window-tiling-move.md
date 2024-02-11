@@ -1,5 +1,5 @@
 ---
-title: 視窗平鋪移動操作
+title: 視窗平鋪移動操作 (k-j-h-l 鍵)
 nav_order: 5022
 has_children: false
 parent: 按鍵綁定
@@ -7,7 +7,7 @@ grand_parent: 設定
 ---
 
 
-# 視窗平鋪移動操作
+# 視窗平鋪移動操作 (k-j-h-l 鍵)
 
 
 ## 移動到側邊(side)
