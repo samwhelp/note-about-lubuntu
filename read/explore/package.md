@@ -237,6 +237,7 @@ xdg-desktop-portal-lxqt				install
 ```
 
 
+## Lxqt / Pckage List
 
 
 執行
