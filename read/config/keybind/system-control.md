@@ -12,34 +12,42 @@ grand_parent: 設定
 
 ## 重新載入設定
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/SystemExit.php#L34-L36)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/SystemExit.php#L3-L6)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
 | `Alt + Shift + c`  | 重新載入設定 | `Reconfigure` (openbox 內建) |
 
 
+
+
 ## 登出
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/SystemExit.php#L24-L26)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/SystemExit.php#L11-L30)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + Shift + x`  | 登出 | `Exit` (openbox 內建) |
+| `Alt + Shift + x`  | 顯示登出確認對話框 | `lxqt-leave --logout` |
+| `Alt + Ctrl + x`  | 示登出確認對話框 (Openbox) | `Exit` (openbox 內建) |
 
 
-## 關機
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/SystemExit.php#L4-L12)
+
+## 離開
+
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/SystemExit.php#L44-L65)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + Shift + z`  | Show Exit Panel | `obsession-logout` |
+| `Alt + Shift + z`  | 顯示離開選單 | `lxqt-leave` |
+| `Alt + Ctrl + z`  | 顯示鎖定螢幕確認對話框 | `lxqt-leave --lockscreen` |
+
+
 
 
 ## 切換「顯示桌面」
 
-* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/SystemToggleShowDesktop.php)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/SystemToggleShowDesktop.php#L3-L5)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -47,4 +55,4 @@ grand_parent: 設定
 
 > 也可以在「桌面」使用「滑鼠左鍵」，反覆按下，就會切換「顯示桌面」。
 
-* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Mousebind/Root.php#L7)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Mousebind/Root.php#L5-L8)

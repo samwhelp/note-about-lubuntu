@@ -10,7 +10,7 @@ grand_parent: 設定
 # 視窗聚焦切換
 
 
-* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/WindowSwitch.php)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/WindowSwitch.php#L4-L22)
 
 
 ## 前後聚焦切換
