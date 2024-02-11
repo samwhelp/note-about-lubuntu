@@ -8,3 +8,7 @@ grand_parent: 探索
 
 
 # lxqt-config
+
+| [Package](../package) |
+| ------- |
+| [lxqt-config](https://packages.ubuntu.com/noble/lxqt-config) |
