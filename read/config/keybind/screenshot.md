@@ -13,5 +13,6 @@ grand_parent: 設定
 
 | 按鍵組合      | 功能                 | 執行指令   |
 | ------------- | -------------------- | ---------- |
-| `Print`       | 螢幕截圖             | `screengrab`    |
-| `Alt + Print` | 選取螢幕畫面區塊截圖 | `screengrab -r` |
+| `Print`        | 螢幕截圖             | `screengrab`    |
+| `Ctrl + Print` | 選取螢幕畫面區塊截圖  | `screengrab -r` |
+| `Alt + Print`  | 目前視窗截圖         | `screengrab -a` |
