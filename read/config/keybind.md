@@ -39,6 +39,7 @@ parent: 設定
 | --- |
 | [系統操作](keybind/system-control) |
 | [系統選單](keybind/system-menu) |
+| [系統設定](keybind/system-setting) |
 
 
 ## 開啟應用程式
