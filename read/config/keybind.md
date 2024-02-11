@@ -49,7 +49,7 @@ parent: 設定
 | [開啟 Terminal](keybind/application-launch-terminal) |
 | [開啟 Rofi](keybind/application-launch-rofi) |
 | [開啟常用的應用程式](keybind/application-launch-favorite) |
-| [聚焦常用的應用程式](keybind/application-focus-fn) |
+| [聚焦開啟的應用程式](keybind/application-focus-fn) |
 
 
 ## 視窗操作
