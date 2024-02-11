@@ -28,3 +28,13 @@ grand_parent: 設定
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
 | `Alt + Ctrl + s`  | Lxqt / Appearance configuration | `lxqt-config-appearance` |
+
+
+
+## 其他
+
+| 主題 |
+| --- |
+| [音量控制](volume-control) |
+| [螢幕解析度控制](monitor-resolution-control) |
+| [螢幕亮度控制](monitor-brightness-control) |
