@@ -15,5 +15,5 @@ grand_parent: 設定
 | ----------------- | -------------- | ------------ |
 | `Alt + Shift + f` | 開啟檔案管理器 | `pcmanfm-qt` |
 | `Alt + Shift + g` | 開啟檔案管理器 | `thunar`     |
-| `Alt + Shift + e` | 開啟文字編輯器 | `mousepad`   |
+| `Alt + Shift + e` | 開啟文字編輯器 | `featherpad`   |
 | `Alt + Shift + b` | 開啟網頁瀏覽器 | `firefox`    |

@@ -25,7 +25,12 @@ parent: 設定
 
 這篇的根據，是採用「我慣用的設定」，
 
-請參考「[我的設定檔](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/rc.xml)」。
+請參考「我的設定檔」。
+
+| 設定檔 |
+| --- |
+| [~/.config/openbox/rc.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/rc.xml) |
+| [~/.config/lxqt/globalkeyshortcuts.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf) |
 
 
 ## 系統操作

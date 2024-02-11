@@ -14,11 +14,11 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
-| `Alt + Enter`     | 開啟 Terminal | `sakura -m`                 |
-| `Alt + Shift + a` | 開啟 Terminal | `sakura -m`                 |
-| `Alt + Ctrl + a`  | 開啟 Terminal | `xfce4-terminal --maximize` |
+| `Alt + Enter`     | 開啟 Terminal | `qterminal`                 |
+| `Alt + Shift + a` | 開啟 Terminal | `qterminal`                 |
+| `Alt + Ctrl + a`  | 開啟 Terminal | `sakura -m` |
 | `Alt + Shift + t` | 開啟 Terminal | `xterm`                     |
-| `Alt + Ctrl + t`  | 開啟 Terminal | `urxvt`                     |
+| `Alt + Ctrl + t`  | 開啟 Terminal | `xfce4-terminal --maximiz`                     |
 
 
 | 按鍵組合          | 功能                      | 執行指令                     |
