@@ -59,7 +59,10 @@ parent: 設定
 | --- |
 | [視窗基本操作](keybind/window-control) |
 | [視窗聚焦切換](keybind/window-focus) |
-| [視窗平鋪移動操作](keybind/window-tiling-move) |
+| [視窗移動操作和更改大小操作 (k-j-h-l 鍵)](keybind/window-move-and-resize) |
+| [視窗移動操作和更改大小操作 (方向鍵)](keybind/window-move-and-resize-by-arrow-key) |
+| [視窗平鋪移動操作 (k-j-h-l 鍵)](keybind/window-tiling-move) |
+| [視窗平鋪移動操作 (方向鍵)](keybind/window-tiling-move-by-arrow-key) |
 
 
 ## 工作空間
