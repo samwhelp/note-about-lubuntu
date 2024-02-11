@@ -1,6 +1,6 @@
 ---
 title: 視窗移動操作和更改大小操作 (k-j-h-l 鍵)
-nav_order: 5023
+nav_order: 5030
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定

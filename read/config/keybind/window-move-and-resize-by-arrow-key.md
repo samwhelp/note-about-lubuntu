@@ -1,6 +1,6 @@
 ---
 title: 視窗移動操作和更改大小操作 (方向鍵)
-nav_order: 5024
+nav_order: 5031
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定
