@@ -9,6 +9,6 @@ grand_parent: 探索
 
 # lxqt-config
 
-| [Package](../package) |
-| ------- |
-| [lxqt-config](https://packages.ubuntu.com/noble/lxqt-config) |
+| [Package](../package) | File List |
+| ------- | ------- |
+| [lxqt-config](https://packages.ubuntu.com/noble/lxqt-config) | [File List](https://packages.ubuntu.com/noble/amd64/lxqt-config/filelist) |
