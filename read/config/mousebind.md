@@ -25,7 +25,9 @@ parent: 設定
 
 | 設定檔路徑 |
 | ----------- |
-| [~/.config/openbox/rc.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/rc.xml) |
+| [~/.config/openbox/rc.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/rc.xml#L2176-L2782) |
+
+
 
 
 ## 視窗內容區塊
