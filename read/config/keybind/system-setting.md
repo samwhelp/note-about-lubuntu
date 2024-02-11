@@ -10,6 +10,17 @@ grand_parent: 設定
 # 系統設定
 
 
+## qps
+
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/SystemSetting.php#L29-L37)
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+| `Ctrl + Esc`  | Lxqt / Process Manager | `qps` |
+
+
+
+
 ## lxqt-config
 
 * [設定片段](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/SystemSetting.php#L19-L28)
