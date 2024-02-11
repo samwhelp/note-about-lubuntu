@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 顯示「視窗操作選單」
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/MenuClient.php)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/MenuClient.php)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -23,7 +23,7 @@ grand_parent: 設定
 
 ## 顯示「桌面操作選單」
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/MenuRoot.php)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/MenuRoot.php)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -34,7 +34,7 @@ grand_parent: 設定
 
 ## 顯示「工作空間操作選單」
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/MenuClientList.php)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/MenuClientList.php)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |

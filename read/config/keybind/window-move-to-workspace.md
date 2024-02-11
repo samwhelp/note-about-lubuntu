@@ -10,7 +10,7 @@ grand_parent: 設定
 # 視窗移到指定工作空間
 
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/WindowMoveToWorkspace.php#L125-L183)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/WindowMoveToWorkspace.php#L125-L183)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | -------------------------------------------- | --------------------------------------------------- |
