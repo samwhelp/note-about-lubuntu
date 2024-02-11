@@ -9,7 +9,14 @@ parent: 探索
 # Package
 
 
-## lxqt
+## Lxqt
+
+| Package | Explore |
+| --- | --- |
+| [lxqt-config](https://packages.ubuntu.com/noble/lxqt-config) | [Explore](package/lxqt-config) |
+
+
+## Lxqt / Explore
 
 執行
 
