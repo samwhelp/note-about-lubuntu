@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 開啟應用程式 (Rofi)
 
-* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/ApplicationLaunchRofi.php#L14)
+* [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/ApplicationLaunchRofi.php#L3-L31)
 
 
 | 按鍵組合          | 功能                           | 執行指令                        |
