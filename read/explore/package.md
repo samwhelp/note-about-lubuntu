@@ -11,9 +11,9 @@ parent: 探索
 
 ## 主題
 
-* [Lxqt / Explore Package List](lxqt--explore-package-list)
-* [Lxqt / Explore](lxqt--explore)
-* [Lxqt / Pckage List](lxqt--package-list)
+* [Lxqt / Explore Package List](#lxqt--explore-package-list)
+* [Lxqt / Explore](#lxqt--explore)
+* [Lxqt / Pckage List](#lxqt--package-list)
 
 
 
