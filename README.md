@@ -16,6 +16,7 @@
 * [按鍵綁定](#按鍵綁定)
 * [字型](#字型)
 * [輸入法](#輸入法)
+* [工具](#工具)
 * [如何](#如何)
 * [相關筆記](#相關筆記)
 
@@ -55,6 +56,16 @@
 | 中文輸入法 |
 | --- |
 | [新酷音輸入法](https://samwhelp.github.io/note-about-lubuntu/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) |
+
+
+
+
+## 工具
+
+| [工具](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config) | 分類 |
+| --- | --- | --- |
+| [pcmanfm-qt](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/file-manager/pcmanfm-qt.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/pcmanfm-qt) | [File Manager](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/file-manager.html) |
+| [qterminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/qterminal) | [Terminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal.html) |
 
 
 
