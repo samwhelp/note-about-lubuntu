@@ -11,14 +11,14 @@ parent: 探索
 
 ## 主題
 
-* [Lxqt / Explore Package List](#lxqt--explore-package-list)
+* [Explore Package List](#explore-package-list)
 * [Lxqt / Explore](#lxqt--explore)
 * [Lxqt / Pckage List](#lxqt--package-list)
+* [Lubuntu / Explore](#lubuntu--explore)
+* [Lubuntu / Pckage List](#lubuntu--explore)
 
 
-
-
-## Lxqt / Explore Package List
+## Explore Package List
 
 | Package | Explore |
 | --- | --- |
@@ -28,6 +28,79 @@ parent: 探索
 
 
 ## Lxqt / Explore
+
+執行
+
+``` sh
+apt-cache search lxqt | sort -u
+```
+
+顯示
+
+```
+calamares-settings-lubuntu - Lubuntu Calamares Settings and Branding
+liblxqt-globalkeys-ui1 - daemon used to register global keyboard shortcuts (ui files)
+liblxqt-globalkeys-ui1-dev - daemon used to register global keyboard shortcuts (ui dev files)
+liblxqt-globalkeys1 - daemon used to register global keyboard shortcuts (shared libs)
+liblxqt-globalkeys1-dev - daemon used to register global keyboard shortcuts (dev files)
+liblxqt-l10n - Language package for liblxqt
+liblxqt1 - Shared libraries for LXQt desktop environment (libs)
+liblxqt1-dev - Shared libraries for LXQt desktop environment (dev)
+libqt5xdg-dev - Development files for libqtxdg
+libqt5xdg3 - Implementation of the XDG Specifications for Qt (shared lib)
+libqt5xdgiconloader-dev - Development files for libqtxdgiconloader
+libqt5xdgiconloader3 - Implementation of the XDG Iconloader for Qt (shared lib)
+libqtilitools-dev - Qtilitools library package
+lubuntu-artwork - artwork for Lubuntu
+lubuntu-installer-prompt - Live ISO prompt for trying or installing Lubuntu
+lximage-qt - Image viewer for LXQt
+lximage-qt-l10n - Language-package for lximage-qt
+lxqt - Metapackage for LXQt
+lxqt-about - About screen for LXQt
+lxqt-about-l10n - Language package for lxqt-about
+lxqt-admin - Admin tools for LXQt
+lxqt-admin-l10n - Language package for lxqt-admin
+lxqt-archiver - Archive Manager for LXQt
+lxqt-archiver-l10n - Language package for lxqt-archiver
+lxqt-branding-debian - Debian branding for LXQt
+lxqt-build-tools - Build tools for the LXQt desktop environment
+lxqt-config - LXQt system settings center
+lxqt-config-l10n - Language package for lxqt-config
+lxqt-core - Metapackage for the LXQt core
+lxqt-globalkeys - daemon used to register global keyboard shortcuts (appl.)
+lxqt-globalkeys-l10n - Language package for lxqt-globalkeys
+lxqt-menu-data - Freedesktop.org compliant menu files for LXQt
+lxqt-notificationd - LXQt notification daemon
+lxqt-notificationd-l10n - Language package for lxqt-notificationd
+lxqt-openssh-askpass - OpenSSH user/password GUI dialog for LXQt
+lxqt-openssh-askpass-l10n - Language package for lxqt-openssh-askpass
+lxqt-panel - LXQt desktop panel
+lxqt-panel-l10n - Language package for lxqt-panel
+lxqt-policykit - LXQt authentication agent for PolicyKit
+lxqt-policykit-l10n - Language package for lxqt-policykit
+lxqt-powermanagement - power management module for LXQt
+lxqt-powermanagement-l10n - Language package for lxqt-powermanagement
+lxqt-qtplugin - LXQt system integration plugin for Qt
+lxqt-runner - LXQt program launcher
+lxqt-runner-l10n - Language package for lxqt-runner
+lxqt-session - session manager component for LXQt
+lxqt-session-l10n - Language package for lxqt-session
+lxqt-sudo - Graphical Qt frontend for plain sudo
+lxqt-sudo-l10n - Language package for lxqt-sudo
+lxqt-system-theme - System theme for LXQt
+lxqt-theme-debian - Debian theme for LXQt
+lxqt-themes - Themes for LXQt
+lxqt-themes-extra - Extra LXQt Themes
+pavucontrol-qt - Qt port of volume control pavucontrol
+qt5-style-kvantum - Kvantum style engine (binaries)
+qt5-style-kvantum-l10n - Kvantum style engine (localization)
+qt5-style-kvantum-themes - Kvantum style engine (themes)
+qtxdg-tools - User tools for libqtxdg
+task-lxqt-desktop - LXQt
+xdg-desktop-portal-lxqt - xdg-desktop-portal using Qt/KF5/libfm-qt
+zulusafe-cli - cli that manages encrypted volumes
+```
+
 
 執行
 
@@ -313,3 +386,83 @@ dpkg -l '*lxqt*' | grep -E '^ii|^un' | awk '{print $2}' | awk -F ':' '{printf "|
 | [lxqt-themes](https://packages.ubuntu.com/noble/lxqt-themes) |
 | [lxqt-themes-extra](https://packages.ubuntu.com/noble/lxqt-themes-extra) |
 | [xdg-desktop-portal-lxqt](https://packages.ubuntu.com/noble/xdg-desktop-portal-lxqt) |
+
+
+
+
+##  Lubuntu / Explore
+
+執行
+
+``` sh
+apt-cache search lubuntu | sort -u
+```
+
+顯示
+
+```
+calamares-settings-lubuntu - Lubuntu Calamares Settings and Branding
+grub2-themes-ubuntustudio - GRand Unified Bootloader, version 2 (Ubuntu Studio theme)
+lubuntu-artwork - artwork for Lubuntu
+lubuntu-default-settings - default settings for Lubuntu
+lubuntu-desktop - Lubuntu Desktop environment
+lubuntu-grub-theme - Theme for Lubuntu grub screen
+lubuntu-installer-prompt - Live ISO prompt for trying or installing Lubuntu
+lubuntu-restricted-addons - Commonly used restricted packages for Lubuntu
+lubuntu-restricted-extras - Commonly used media codecs and fonts for Lubuntu (Transitional)
+lubuntu-update-notifier - Lubuntu's update installer
+plymouth-theme-lubuntu-logo - plymouth theme for Lubuntu
+plymouth-theme-lubuntu-text - plymouth text theme for Lubuntu
+sddm-theme-lubuntu - Lubuntu theme for SDDM X11 display manager
+```
+
+
+執行
+
+``` sh
+dpkg -l '*lubuntu*'
+```
+
+顯示
+
+```
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                        Version        Architecture Description
++++-===========================-==============-============-================================================
+ii  calamares-settings-lubuntu  1:24.04.12     all          Lubuntu Calamares Settings and Branding
+ii  lubuntu-artwork             24.04.3        all          artwork for Lubuntu
+ii  lubuntu-default-settings    24.04.3        all          default settings for Lubuntu
+ii  lubuntu-desktop             24.04.5        amd64        Lubuntu Desktop environment
+ii  lubuntu-grub-theme          24.04.3        all          Theme for Lubuntu grub screen
+ii  lubuntu-installer-prompt    1.1.2-0ubuntu1 amd64        Live ISO prompt for trying or installing Lubuntu
+ii  lubuntu-update-notifier     1.0.0~alpha1   amd64        Lubuntu's update installer
+ii  plymouth-theme-lubuntu-logo 24.04.3        all          plymouth theme for Lubuntu
+ii  plymouth-theme-lubuntu-text 24.04.3        all          plymouth text theme for Lubuntu
+ii  sddm-theme-lubuntu          24.04.3        all          Lubuntu theme for SDDM X11 display manager
+```
+
+
+##  Lubuntu / Package List
+
+執行
+
+``` sh
+apt-cache search lubuntu | sort -u | awk -F ' - ' '{printf "| ["$1"](https://packages.ubuntu.com/noble/"$1") |\n"}'
+```
+
+
+| [calamares-settings-lubuntu](https://packages.ubuntu.com/noble/calamares-settings-lubuntu) |
+| [grub2-themes-ubuntustudio](https://packages.ubuntu.com/noble/grub2-themes-ubuntustudio) |
+| [lubuntu-artwork](https://packages.ubuntu.com/noble/lubuntu-artwork) |
+| [lubuntu-default-settings](https://packages.ubuntu.com/noble/lubuntu-default-settings) |
+| [lubuntu-desktop](https://packages.ubuntu.com/noble/lubuntu-desktop) |
+| [lubuntu-grub-theme](https://packages.ubuntu.com/noble/lubuntu-grub-theme) |
+| [lubuntu-installer-prompt](https://packages.ubuntu.com/noble/lubuntu-installer-prompt) |
+| [lubuntu-restricted-addons](https://packages.ubuntu.com/noble/lubuntu-restricted-addons) |
+| [lubuntu-restricted-extras](https://packages.ubuntu.com/noble/lubuntu-restricted-extras) |
+| [lubuntu-update-notifier](https://packages.ubuntu.com/noble/lubuntu-update-notifier) |
+| [plymouth-theme-lubuntu-logo](https://packages.ubuntu.com/noble/plymouth-theme-lubuntu-logo) |
+| [plymouth-theme-lubuntu-text](https://packages.ubuntu.com/noble/plymouth-theme-lubuntu-text) |
+| [sddm-theme-lubuntu](https://packages.ubuntu.com/noble/sddm-theme-lubuntu) |
