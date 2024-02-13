@@ -1,7 +1,7 @@
 ---
 title: 連結
 nav_order: 9000
-has_children: true
+has_children: false
 ---
 
 
@@ -15,7 +15,11 @@ has_children: true
 | [Lubuntu](https://lubuntu.me/) |
 | Ubuntu cdimage / [lubuntu](https://cdimage.ubuntu.com/lubuntu/) |
 | [lxqt](https://lxqt-project.org/) |
-| [lxde](http://www.lxde.org/) |
+| GitHub / [lxqt](https://github.com/lxqt) |
+| [lxde](https://www.lxde.org/) |
+| GitHub / [lxde](https://github.com/lxde) |
+
+
 
 
 ## Just the Docs

@@ -13,9 +13,9 @@ parent: 探索
 
 * [Explore Package List](#explore-package-list)
 * [Lxqt / Explore](#lxqt--explore)
-* [Lxqt / Pckage List](#lxqt--package-list)
+* [Lxqt / Package List](#lxqt--package-list)
 * [Lubuntu / Explore](#lubuntu--explore)
-* [Lubuntu / Pckage List](#lubuntu--explore)
+* [Lubuntu / Package List](#lubuntu--package-list)
 
 
 ## Explore Package List
@@ -321,7 +321,7 @@ xdg-desktop-portal-lxqt				install
 ```
 
 
-## Lxqt / Pckage List
+## Lxqt / Package List
 
 
 執行
