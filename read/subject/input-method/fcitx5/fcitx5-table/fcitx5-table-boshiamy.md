@@ -86,7 +86,7 @@ im-config -n fcitx5
 
 透過「圖形操作介面程式(`fcitx5-configtool`)」，
 
-加入「`fcitx5-table-boshiamy`」這個「輸入法」。
+加入「嘸蝦米輸入法(`fcitx5-table-boshiamy`)」這個「輸入法」。
 
 
 

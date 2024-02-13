@@ -79,7 +79,7 @@ im-config -n fcitx5
 
 透過「圖形操作介面程式(`fcitx5-configtool`)」，
 
-加入「`fcitx5-chewing`」這個「輸入法」。
+加入「新酷音輸入法(`fcitx5-chewing`)」這個「輸入法」。
 
 
 
