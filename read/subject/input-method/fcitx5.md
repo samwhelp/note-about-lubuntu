@@ -13,7 +13,7 @@ parent: 輸入法
 
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
-* [Package](#Package)
+* [Package](#package)
 
 
 
