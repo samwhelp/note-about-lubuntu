@@ -1,6 +1,6 @@
 ---
 title: 輸入法
-nav_order: 3000
+nav_order: 3020
 has_children: true
 ---
 
