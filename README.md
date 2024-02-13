@@ -14,6 +14,8 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [字型](#字型)
+* [輸入法](#輸入法)
 * [如何](#如何)
 * [相關筆記](#相關筆記)
 
@@ -35,6 +37,24 @@
 | --- |
 | [鍵盤](https://samwhelp.github.io/note-about-lubuntu/read/config/keybind.html) |
 | [滑鼠](https://samwhelp.github.io/note-about-lubuntu/read/config/mousebind.html) |
+
+
+
+
+## 字型
+
+| 字型設定 |
+| --- |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-lubuntu/read/subject/font/config/font-match-order.html) |
+
+
+
+
+## 輸入法
+
+| 中文輸入法 |
+| --- |
+| [新酷音輸入法](https://samwhelp.github.io/note-about-lubuntu/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) |
 
 
 
