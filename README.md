@@ -66,8 +66,8 @@
 
 | [工具](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config) | 分類 |
 | --- | --- | --- |
-| [pcmanfm-qt](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/file-manager/pcmanfm-qt.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/pcmanfm-qt) | [File Manager](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/file-manager.html) |
-| [qterminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/qterminal) | [Terminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal.html) |
+| [pcmanfm-qt](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/file-manager/pcmanfm-qt.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) | [File Manager](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/file-manager.html) |
+| [qterminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/qterminal) | [Terminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal.html) |
 
 
 

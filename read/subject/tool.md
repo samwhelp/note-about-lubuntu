@@ -21,8 +21,8 @@ has_children: true
 
 | [工具微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config) |
 | --- |
-| [pcmanfm-qt](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/pcmanfm-qt) |
-| [qterminal](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/qterminal) |
+| [pcmanfm-qt](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
+| [qterminal](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |
 
 
 
@@ -30,7 +30,7 @@ has_children: true
 
 | [File Manager](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/file-manager.html) | 微調腳本 |
 | --- | --- |
-| [pcmanfm-qt](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/file-manager/pcmanfm-qt.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/pcmanfm-qt) |
+| [pcmanfm-qt](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/file-manager/pcmanfm-qt.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
 
 
 
@@ -40,4 +40,4 @@ has_children: true
 
 | [Terminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal.html) | 微調腳本 |
 | --- | --- |
-| [qterminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/qterminal) |
+| [qterminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |

@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [pcmanfm-qt](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/pcmanfm-qt) |
+| [pcmanfm-qt](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
 
 
 ## Ubuntu Package Search
@@ -45,9 +45,9 @@ sudo apt-get install pcmanfm-qt
 
 | Config File Path (default) |
 | --- |
-| [~/.config/pcmanfm-qt/default/settings.conf](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/pcmanfm-qt/asset/overlay/etc/skel/.config/pcmanfm-qt/default/settings.conf) |
+| [~/.config/pcmanfm-qt/default/settings.conf](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt/asset/overlay/etc/skel/.config/pcmanfm-qt/default/settings.conf) |
 
 
 | Config File Path (lxqt) |
 | --- |
-| [~/.config/pcmanfm-qt/lxqt/settings.conf](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/pcmanfm-qt/asset/overlay/etc/skel/.config/pcmanfm-qt/lxqt/settings.conf) |
+| [~/.config/pcmanfm-qt/lxqt/settings.conf](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt/asset/overlay/etc/skel/.config/pcmanfm-qt/lxqt/settings.conf) |

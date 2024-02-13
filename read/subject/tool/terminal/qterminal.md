@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [qterminal](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/qterminal) |
+| [qterminal](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |
 
 
 ## Ubuntu Package Search
@@ -45,4 +45,4 @@ sudo apt-get install qterminal
 
 | Config File Path |
 | --- |
-| [~/.config/qterminal.org/qterminal.ini](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/qterminal/asset/overlay/etc/skel/.config/qterminal.org/qterminal.ini) |
+| [~/.config/qterminal.org/qterminal.ini](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/qterminal/asset/overlay/etc/skel/.config/qterminal.org/qterminal.ini) |
