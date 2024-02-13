@@ -13,8 +13,8 @@ grand_parent: 工具
 ## Subject
 
 * [微調腳本](#微調腳本)
-* [Ubuntu Package Search](#debian-package-search)
-* [Ubuntu Package](#debian-package)
+* [Ubuntu Package Search](#ubuntu-package-search)
+* [Ubuntu Package](#ubuntu-package)
 * [Config File Path](#config-file-path)
 
 
