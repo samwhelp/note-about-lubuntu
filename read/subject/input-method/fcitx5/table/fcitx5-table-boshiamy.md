@@ -12,9 +12,9 @@ grand_parent: 輸入法
 
 ## 微調腳本
 
-| 微調腳本 |
-| -------- |
-| [fcitx5-table-boshiamy 安裝設定腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-boshiamy) |
+| 微調腳本 | 中文輸入法 |
+| -------- | ---------- |
+| [fcitx5-table-boshiamy 安裝設定腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-boshiamy) | 嘸蝦米輸入法 |
 
 
 ## 指令安裝
