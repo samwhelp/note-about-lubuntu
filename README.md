@@ -44,9 +44,9 @@
 
 ## 字型
 
-| 字型設定 |
-| --- |
-| [設定字型查找順序](https://samwhelp.github.io/note-about-lubuntu/read/subject/font/config/font-match-order.html) |
+| 字型設定 | 微調腳本 |
+| --- | --- |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-lubuntu/read/subject/font/config/font-match-order.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/font-config/font-match-order) |
 
 
 
