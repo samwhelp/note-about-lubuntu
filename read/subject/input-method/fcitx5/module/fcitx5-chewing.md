@@ -45,6 +45,18 @@ sudo apt-get install fcitx5-config-qt
 
 > 可以參考我的「[package-list.txt](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/im-config/fcitx5/fcitx5-chewing/package-list.txt)」
 
+| Package |
+| ------- |
+| [im-config](https://packages.ubuntu.com/noble/im-config) |
+| [fcitx5](https://packages.ubuntu.com/noble/fcitx5) |
+| [fcitx5-chewing](https://packages.ubuntu.com/noble/fcitx5-chewing) |
+| [fcitx5-config-qt](https://packages.ubuntu.com/noble/fcitx5-config-qt) |
+| [fcitx5-frontend-gtk2](https://packages.ubuntu.com/noble/fcitx5-frontend-gtk2) |
+| [fcitx5-frontend-gtk3](https://packages.ubuntu.com/noble/fcitx5-frontend-gtk3) |
+| [fcitx5-frontend-gtk4](https://packages.ubuntu.com/noble/fcitx5-frontend-gtk4) |
+| [fcitx5-frontend-qt5](https://packages.ubuntu.com/noble/fcitx5-frontend-qt5) |
+| [fcitx5-frontend-qt6](https://packages.ubuntu.com/noble/fcitx5-frontend-qt6) |
+
 上面的安裝指令，可以合併在一起如下
 
 ``` sh
