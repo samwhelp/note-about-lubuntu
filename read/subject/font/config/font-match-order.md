@@ -15,3 +15,10 @@ grand_parent: 字型
 | 設定腳本 |
 | --- |
 | [font-match-order](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/font-config/font-match-order) |
+
+
+## 設定檔路徑
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/fontconfig/conf.d/50-font-match-order.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/font-config/font-match-order/asset/overlay/etc/skel/.config/fontconfig/conf.d/50-font-match-order.conf) |
