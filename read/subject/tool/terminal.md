@@ -11,3 +11,12 @@ parent: 工具
 | Terminal | 微調腳本 |
 | --- | --- |
 | [qterminal](https://samwhelp.github.io/note-about-lubuntu/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/qterminal) |
+
+
+
+
+## 相關筆記
+
+| Link | GitHub |
+| ---- | ------ |
+| [Terminal 探索筆記](https://samwhelp.github.io/note-about-terminal/) | [GitHub](https://github.com/samwhelp/note-about-terminal) |
