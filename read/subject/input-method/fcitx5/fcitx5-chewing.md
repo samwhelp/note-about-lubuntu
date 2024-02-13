@@ -14,7 +14,7 @@ grand_parent: 輸入法
 
 | 微調腳本 |
 | -------- |
-| [fcitx5-chewing 微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
+| [fcitx5-chewing 安裝設定腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
 
 
 ## 指令安裝
