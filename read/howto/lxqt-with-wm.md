@@ -23,3 +23,4 @@ parent: 如何
 | 搭配 |
 | --- |
 | [設定「Lxqt」搭配「Compiz」](https://samwhelp.github.io/note-about-lubuntu/read/howto/lxqt-with-wm/lxqt-with-compiz.html) |
+| [設定「Lxqt」搭配「Xfwm4」](https://samwhelp.github.io/note-about-lubuntu/read/howto/lxqt-with-wm/lxqt-with-xfwm4.html) |
