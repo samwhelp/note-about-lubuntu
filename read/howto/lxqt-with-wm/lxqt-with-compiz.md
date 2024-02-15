@@ -16,5 +16,7 @@ grand_parent: 如何
 
 搭配「openbox」這個「視窗管理器」。
 
+現在我們要來嘗試讓「lxqt」搭配「[compiz](https://samwhelp.github.io/note-about-lubuntu/read/master/window-manager/compiz.html)」。
 
 ## 說明
+
