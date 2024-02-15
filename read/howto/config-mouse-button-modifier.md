@@ -11,7 +11,9 @@ parent: 如何
 
 ## 前提
 
-Lubuntu 目前是採用「lxqt」搭配「openbox」。
+目前「Lubuntu」是採用「lxqt」這個「桌面環境」，
+
+搭配「openbox」這個「視窗管理器」。
 
 
 ## 說明
