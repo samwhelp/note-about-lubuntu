@@ -17,7 +17,9 @@ parent: 視窗管理器
 
 ## 微調腳本
 
-*  [Openbox 微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox)
+| 微調腳本 |
+| --- |
+| [openbox-config](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox) |
 
 
 ## 相關筆記
