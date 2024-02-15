@@ -9,6 +9,11 @@ parent: 如何
 # 設定 Mouse Button Modifier
 
 
+## 前提
+
+Lubuntu 目前是採用「lxqt」搭配「openbox」。
+
+
 ## 說明
 
 
