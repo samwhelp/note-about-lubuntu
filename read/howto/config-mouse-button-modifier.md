@@ -12,7 +12,7 @@ parent: 如何
 ## 說明
 
 
-修改「[~/.config/openbox/bl-rc.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/rc.xml#L2295-L2341)」這個檔案
+修改「[~/.config/openbox/rc.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/rc.xml#L2265-L2327)」這個檔案
 
 在
 
