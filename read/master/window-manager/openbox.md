@@ -20,7 +20,8 @@ parent: 視窗管理器
 *  [Openbox 微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox)
 
 
-
 ## 相關筆記
 
-* [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/)
+| Link | GitHub |
+| ---- | ------ |
+| [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
