@@ -19,4 +19,4 @@ parent: 桌面環境
 
 | [Lubuntu](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/) |
 | --- |
-| [lxqt-config](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/) |
+| [lxqt-config](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main) |
