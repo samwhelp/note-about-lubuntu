@@ -2,7 +2,7 @@
 title: Openbox
 nav_order: 3010
 has_children: true
-parent: 桌面環境
+parent: 視窗管理器
 ---
 
 
