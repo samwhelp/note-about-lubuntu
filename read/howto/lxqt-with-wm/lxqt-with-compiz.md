@@ -23,6 +23,8 @@ grand_parent: 如何
 
 * 安裝「Compiz」
 * 安裝「Compiz」設定檔
+* 設定「gtk-window-decorator」
+* 設定「lxqt」搭配「compiz」
 
 
 ### 安裝「Compiz」
@@ -64,3 +66,51 @@ sudo apt-get install \
 | --- |
 | [~/.config/compiz-1/compizconfig/config](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-compiz/Main/asset/overlay/etc/skel/.config/compiz-1/compizconfig/config) |
 | [~/.config/compiz-1/compizconfig/Default.ini](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-compiz/Main/asset/overlay/etc/skel/.config/compiz-1/compizconfig/Default.ini) |
+
+
+## 設定「gtk-window-decorator」
+
+關於「compiz」預設採用的是「gtk-window-decorator」，
+
+所以可以做如下的設定:
+
+執行下面指令，設定視窗的標題列，顯示那些按鈕。
+
+``` sh
+gsettings set org.gnome.desktop.wm.preferences button-layout 'appmenu:minimize,maximize,close'
+```
+
+執行下面指令，安裝「numix-gtk-theme」
+
+``` sh
+sudo apt-get install numix-gtk-theme
+```
+
+執行下面指令，設定「gtk-window-decorator」採用「Numix」這個佈景主題。
+
+``` sh
+gsettings set org.gnome.desktop.wm.preferences theme 'Numix'
+```
+
+
+## 設定「lxqt」搭配「compiz」
+
+可以透過「圖形介面程式」來設定，
+
+也就是透過「`lxqt-config-session` (LXQT Session Settings)」來設定。
+
+在「Basic Settings」這個頁面，有一個選項「Window Manager」，
+
+可以在該選項的下拉選單，選擇「compiz」，重新登出登入後，就會生效。
+
+這個設定值，會被保存在「[~/.config/lxqt/session.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-compiz/Main/asset/overlay/etc/skel/.config/lxqt/session.conf#L3)」，
+
+所以我們也可以直接修改這個檔案，類似的設定如下
+
+``` ini
+[General]
+__userfile__=true
+window_manager=compiz
+```
+
+也就是「`window_manager=compiz`」那一行，修改成我們想要採用的「Window Manager」。
