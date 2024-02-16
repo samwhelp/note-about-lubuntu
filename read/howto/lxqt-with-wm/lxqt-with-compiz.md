@@ -10,6 +10,13 @@ grand_parent: 如何
 # 設定「Lxqt」搭配「Compiz」
 
 
+## 微調腳本
+
+| 微調腳本 |
+| --- |
+| [lxqt-with-compiz](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/alternative-config/lxqt-with-compiz/Main) |
+
+
 ## 前提
 
 目前「Lubuntu」是採用「lxqt」這個「桌面環境」，
