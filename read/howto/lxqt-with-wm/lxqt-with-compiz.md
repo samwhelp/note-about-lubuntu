@@ -21,10 +21,10 @@ grand_parent: 如何
 
 ## 操作步驟
 
-* 安裝「Compiz」
-* 安裝「Compiz」設定檔
-* 設定「gtk-window-decorator」
-* 設定「lxqt」搭配「compiz」
+* [安裝「Compiz」](#安裝compiz)
+* [安裝「Compiz」設定檔](#安裝compiz設定檔)
+* [設定「gtk-window-decorator」(#設定gtk-window-decorator)
+* [設定「lxqt-session」採用「compiz」(#設定lxqt-session採用compiz)
 
 
 ### 安裝「Compiz」
@@ -103,7 +103,7 @@ gsettings set org.gnome.desktop.wm.preferences theme 'Numix'
 ```
 
 
-## 設定「lxqt」搭配「compiz」
+## 設定「lxqt-session」採用「compiz」
 
 可以透過「圖形介面程式」來設定，
 
