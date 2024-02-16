@@ -56,7 +56,7 @@ QT_IM_MODULE=fcitx
 QT_PLATFORM_PLUGIN=lxqt
 ```
 
-在「qt-style」這個議題，我們關注的是其中兩行如下
+在設定「Qt Style」這個議題，我們關注的是其中兩行如下
 
 ``` sh
 QT_QPA_PLATFORMTHEME=lxqt
