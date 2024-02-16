@@ -27,7 +27,7 @@ parent: 視窗管理器
 
 | 微調腳本 |
 | --- |
-| [compiz-config](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/wm-config/compiz/Main) |
+| [lxqt-with-compiz](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/alternative-config/lxqt-with-compiz/Main) |
 
 
 ## 相關筆記
