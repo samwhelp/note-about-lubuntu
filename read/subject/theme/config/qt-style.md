@@ -1,5 +1,5 @@
 ---
-title: 設定 qt-style
+title: 設定「Qt Style」
 nav_order: 3101
 has_children: false
 parent: 設定
@@ -7,7 +7,7 @@ grand_parent: 佈景主題
 ---
 
 
-# 設定 qt-style
+# 設定「Qt Style」
 
 
 ## lxqt-config-appearance
