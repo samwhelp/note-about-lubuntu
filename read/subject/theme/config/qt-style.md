@@ -220,3 +220,17 @@ sudo apt-get install qt5-style-plugins
 
 這樣「Qt Style」就會跟隨「gtk2」的設定。
 
+由於在「lubuntu」我們並沒有起任何「xsettings」的「Server」，
+
+所以「gtk2」和「gtk3」就會採用「設定檔」的設定
+
+| gtk | 設定檔 |
+| --- | --- |
+| gtk2 | [~/.gtkrc-2.0](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-compiz/Main/asset/overlay/etc/skel/.gtkrc-2.0#L8) |
+| gtk3 | [~/.config/gtk-3.0/settings.ini](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-compiz/Main/asset/overlay/etc/skel/.config/gtk-3.0/settings.ini#L11) |
+
+我們除了可以直接編輯這兩個檔案。
+
+也可以透過「`lxqt-config-appearance` (LXQt Appearance Configuaration)」這個「圖形介面程式」來設定，
+
+在「Gtk Style」這個這個頁面，就可以設定。
