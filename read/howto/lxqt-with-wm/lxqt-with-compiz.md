@@ -131,3 +131,10 @@ window_manager=compiz
 ```
 
 也就是「`window_manager=compiz`」那一行，修改成我們想要採用的「Window Manager」。
+
+
+## 相關議題
+
+| 佈景主題 |
+| --- |
+| [設定「Qt Style」](https://samwhelp.github.io/note-about-lubuntu/read/subject/theme/config/qt-style.html) |

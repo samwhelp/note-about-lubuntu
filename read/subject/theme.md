@@ -12,4 +12,4 @@ has_children: true
 
 | 如何 |
 | --- |
-| [設定 qt-style](https://samwhelp.github.io/note-about-lubuntu/read/subject/theme/config/qt-style.html) |
+| [設定「Qt Style」](https://samwhelp.github.io/note-about-lubuntu/read/subject/theme/config/qt-style.html) |
