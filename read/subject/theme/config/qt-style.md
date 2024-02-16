@@ -66,7 +66,7 @@ QT_STYLE_OVERRIDE=Breeze
 
 ## 設定「Qt Style」採用「kvantum」
 
-執行下面指令，安裝「qt5-style-kvantum」
+執行下面指令，安裝「[qt5-style-kvantum](https://packages.ubuntu.com/noble/qt5-style-kvantum)」
 
 ``` sh
 sudo apt-get install qt5-style-kvantum
@@ -111,7 +111,7 @@ QT_STYLE_OVERRIDE=kvantum
 
 在設定「kvantum」要採用的「佈景主題」前，
 
-我們先執行下面的指令，安裝「arc-kde」
+我們先執行下面的指令，安裝「[arc-kde](https://packages.ubuntu.com/noble/arc-kde)」
 
 ``` sh
 sudo apt-get install arc-kde
