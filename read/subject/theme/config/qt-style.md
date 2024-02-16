@@ -234,3 +234,9 @@ sudo apt-get install qt5-style-plugins
 也可以透過「`lxqt-config-appearance` (LXQt Appearance Configuaration)」這個「圖形介面程式」來設定，
 
 在「Gtk Style」這個這個頁面，就可以設定。
+
+
+## 相關的佈景主題
+
+* [arc-theme](https://packages.ubuntu.com/noble/arc-theme)
+* [arc-kde](https://packages.ubuntu.com/noble/arc-kde)
