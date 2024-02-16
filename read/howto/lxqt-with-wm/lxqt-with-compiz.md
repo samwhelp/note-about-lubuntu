@@ -135,6 +135,6 @@ window_manager=compiz
 
 ## 相關議題
 
-| 佈景主題 |
+| [佈景主題](https://samwhelp.github.io/note-about-lubuntu/read/subject/theme.html) |
 | --- |
 | [設定「Qt Style」](https://samwhelp.github.io/note-about-lubuntu/read/subject/theme/config/qt-style.html) |
