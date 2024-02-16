@@ -86,7 +86,7 @@
 
 | [如何](https://samwhelp.github.io/note-about-lubuntu/read/howto.html) |
 | ------- |
-| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-lubuntu/read/howto/config-mouse-button-modifier.html) |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-lubuntu/read/howto/config-mouse-button-modifier.html) |
 | [設定「Lxqt」搭配其他的「視窗管理器」](https://samwhelp.github.io/note-about-lubuntu/read/howto/lxqt-with-wm.html) |
 
 

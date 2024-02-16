@@ -12,7 +12,7 @@ has_children: true
 
 | 滑鼠按鍵綁定 |
 | ------- |
-| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-lubuntu/read/howto/config-mouse-button-modifier.html) |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-lubuntu/read/howto/config-mouse-button-modifier.html) |
 
 
 
