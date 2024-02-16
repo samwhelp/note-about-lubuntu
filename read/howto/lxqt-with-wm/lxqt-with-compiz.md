@@ -68,6 +68,11 @@ sudo apt-get install \
 | [~/.config/compiz-1/compizconfig/Default.ini](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-compiz/Main/asset/overlay/etc/skel/.config/compiz-1/compizconfig/Default.ini) |
 
 
+``` sh
+mkdir -p ~/.config/compiz-1/compizconfig
+```
+
+
 ## 設定「gtk-window-decorator」
 
 關於「compiz」預設採用的是「gtk-window-decorator」，
