@@ -30,8 +30,8 @@ grand_parent: 如何
 
 * [安裝「Compiz」](#安裝compiz)
 * [安裝「Compiz」設定檔](#安裝compiz設定檔)
-* [設定「gtk-window-decorator」(#設定gtk-window-decorator)
-* [設定「lxqt-session」採用「compiz」(#設定lxqt-session採用compiz)
+* [設定「gtk-window-decorator」](#設定gtk-window-decorator)
+* [設定「lxqt-session」採用「compiz」](#設定lxqt-session採用compiz)
 
 
 ### 安裝「Compiz」
