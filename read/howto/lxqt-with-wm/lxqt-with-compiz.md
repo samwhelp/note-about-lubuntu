@@ -34,7 +34,7 @@ grand_parent: 如何
 * [設定「lxqt-session」採用「compiz」](#設定lxqt-session採用compiz)
 
 
-### 安裝「Compiz」
+## 安裝「Compiz」
 
 執行下面指令，安裝「compiz」
 
