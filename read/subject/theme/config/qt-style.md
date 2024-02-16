@@ -83,8 +83,8 @@ sudo apt-get install qt5-style-kvantum
 就會多出「`kvantum`」和「`kvantum-dark`」兩個選項
 
 * Breeze
-* kvantum
 * kvantum-dark
+* kvantum
 * Windows
 * Fusion
 
@@ -173,3 +173,50 @@ theme=ArcDark
 最後只要重新登出登入，設定「Qt Style」採用「kvantum」就會生效。
 
 爾後只要透過「`kvantummanager` (Kvantum Manager)」這個「圖形介面程式」來設定「kvantum」要採用的「佈景主題」。
+
+
+## 設定「Qt Style」採用「gtk2」
+
+執行下面指令，安裝「[qt5-style-plugins](https://packages.ubuntu.com/noble/qt5-style-plugins)」
+
+``` sh
+sudo apt-get install qt5-style-plugins
+```
+
+就會安裝下面四個「Package」
+
+* [qt5-gtk2-platformtheme](https://packages.ubuntu.com/noble/qt5-gtk2-platformtheme)
+* [qt5-style-plugin-cleanlooks](https://packages.ubuntu.com/noble/qt5-style-plugin-cleanlooks)
+* [qt5-style-plugin-motif](https://packages.ubuntu.com/noble/)
+* [qt5-style-plugin-plastique](https://packages.ubuntu.com/noble/qt5-style-plugin-motif)
+
+
+安裝完畢後，
+
+重新執行「`lxqt-config-appearance` (LXQt Appearance Configuaration)」這個「圖形介面程式」，
+
+在「Widget Style」這個這個頁面，
+
+在選項「Qt Style」的下拉選單，
+
+就會多出「`cleanlooks`」，「`gtk2`」，「`cde`」，「`motif`」，「`plastique`」這幾個選項
+
+* Breeze
+* kvantum-dark
+* kvantum
+* cleanlooks
+* gtk2
+* cde
+* motif
+* plastique
+* Windows
+* Fusion
+
+如同上面設定「Qt Style」採用「kvantum」提到的，
+
+我們回歸到「環境變數」的作法
+
+只要設定「`QT_STYLE_OVERRIDE=gtk2`」就行了。
+
+這樣「Qt Style」就會跟隨「gtk2」的設定。
+
