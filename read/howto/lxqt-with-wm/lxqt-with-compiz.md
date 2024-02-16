@@ -70,6 +70,11 @@ sudo apt-get install \
 
 ``` sh
 mkdir -p ~/.config/compiz-1/compizconfig
+
+curl -fLo ~/.config/compiz-1/compizconfig/Default.ini --create-dirs https://raw.githubusercontent.com/samwhelp/lubuntu-adjustment/main/prototype/main/alternative-config/lxqt-with-compiz/Main/asset/overlay/etc/skel/.config/compiz-1/compizconfig/Default.ini
+
+curl -fLo ~/.config/compiz-1/compizconfig/config --create-dirs https://raw.githubusercontent.com/samwhelp/lubuntu-adjustment/main/prototype/main/alternative-config/lxqt-with-compiz/Main/asset/overlay/etc/skel/.config/compiz-1/compizconfig/config
+
 ```
 
 
