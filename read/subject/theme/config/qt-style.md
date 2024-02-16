@@ -10,6 +10,14 @@ grand_parent: 佈景主題
 # 設定「Qt Style」
 
 
+## 主題
+
+* [lxqt-config-appearance](#lxqt-config-appearance)
+* [環境變數](#環境變數)
+* [設定「Qt Style」採用「kvantum」](#設定qt-style採用kvantum)
+* [設定「Qt Style」採用「gtk2」](#設定qt-style採用gtk2)
+
+
 ## lxqt-config-appearance
 
 理論上，透過「`lxqt-config-appearance` (LXQt Appearance Configuaration)」這個「圖形介面程式」來操作
