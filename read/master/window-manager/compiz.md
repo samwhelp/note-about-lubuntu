@@ -1,6 +1,6 @@
 ---
 title: Compiz
-nav_order: 3020
+nav_order: 3031
 has_children: false
 parent: 視窗管理器
 ---

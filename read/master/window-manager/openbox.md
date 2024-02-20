@@ -1,6 +1,6 @@
 ---
 title: Openbox
-nav_order: 3010
+nav_order: 3011
 has_children: false
 parent: 視窗管理器
 ---

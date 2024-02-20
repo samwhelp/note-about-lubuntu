@@ -1,6 +1,6 @@
 ---
 title: Kwin
-nav_order: 3020
+nav_order: 3032
 has_children: false
 parent: 視窗管理器
 ---
