@@ -1,11 +1,11 @@
 ---
-title: 顯示介面
+title: 語系
 nav_order: 3010
 has_children: true
 ---
 
 
-# 顯示介面
+# 語系
 
 
 ## 主題

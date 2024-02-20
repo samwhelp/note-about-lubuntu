@@ -47,5 +47,5 @@ has_children: true
 
 | 相關議題 |
 | --- |
-| [顯示介面](https://samwhelp.github.io/note-about-lubuntu/read/subject/locale.html) |
+| [語系](https://samwhelp.github.io/note-about-lubuntu/read/subject/locale.html) |
 | [字型](https://samwhelp.github.io/note-about-lubuntu/read/subject/font.html) |
