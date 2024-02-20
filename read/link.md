@@ -13,7 +13,10 @@ has_children: false
 | Link |
 | ---- |
 | [Lubuntu](https://lubuntu.me/) |
+| Lubuntu / [Manual](https://manual.lubuntu.me/)|
 | Ubuntu cdimage / [lubuntu](https://cdimage.ubuntu.com/lubuntu/) |
+| GitHub / [lubuntu-team](https://github.com/lubuntu-team) |
+| Gitea / [lubuntu](https://git.lubuntu.me/explore/repos) |
 | [lxqt](https://lxqt-project.org/) |
 | GitHub / [lxqt](https://github.com/lxqt) |
 | [lxde](https://www.lxde.org/) |
