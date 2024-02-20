@@ -1,5 +1,5 @@
 ---
-title: 設定「Lxqt」搭配「i3wm」
+title: 設定「Lxqt」搭配「I3wm」
 nav_order: 7033
 has_children: false
 parent: 設定「Lxqt」搭配其他的「視窗管理器」
@@ -7,7 +7,7 @@ grand_parent: 如何
 ---
 
 
-# 設定「Lxqt」搭配「i3wm」
+# 設定「Lxqt」搭配「I3wm」
 
 
 ## 微調腳本
