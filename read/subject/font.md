@@ -1,6 +1,6 @@
 ---
 title: 字型
-nav_order: 3010
+nav_order: 3020
 has_children: true
 ---
 
@@ -10,13 +10,19 @@ has_children: true
 
 ## 中文字型
 
+
 ## 主題
 
 * [字型安裝](#字型安裝)
 * [字型設定](#字型設定)
+* [相關議題](#相關議題)
+
+
 
 
 ## 字型安裝
+
+
 
 
 ## 字型設定
@@ -24,3 +30,13 @@ has_children: true
 | [字型設定](https://samwhelp.github.io/note-about-lubuntu/read/subject/font/config.html) |
 | --- |
 | [設定字型查找順序](https://samwhelp.github.io/note-about-lubuntu/read/subject/font/config/font-match-order.html) |
+
+
+
+
+## 相關議題
+
+| 相關議題 |
+| --- |
+| [顯示介面](https://samwhelp.github.io/note-about-lubuntu/read/subject/locale.html) |
+| [輸入法](https://samwhelp.github.io/note-about-lubuntu/read/subject/input-method.html) |
