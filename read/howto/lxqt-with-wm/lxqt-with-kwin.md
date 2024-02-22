@@ -29,6 +29,7 @@ grand_parent: 如何
 ## 操作步驟
 
 * [安裝「Kwin」](#安裝kwin)
+* [關於「Kwin」設定檔](#關於kwin設定檔)
 
 
 
@@ -54,3 +55,22 @@ sudo apt-get install \
 	kwin-addons
 
 ```
+
+
+
+
+## 安裝「Kwin」設定檔
+
+| 關於「Kwin」設定檔路徑 |
+| --- |
+| [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc) |
+| [~/.config/kactivitymanagerdrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kactivitymanagerdrc) |
+| [~/.config/kwinrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kwinrc) |
+
+
+| 關於「Kwin」設定檔路徑 |
+| --- |
+| [~/.config/kdeglobals](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kdeglobals) |
+| [~/.config/plasmarc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/plasmarc) |
+| [~/.config/kcminputrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kcminputrc) |
+| [~/.config/kaccessrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kaccessrc) |
