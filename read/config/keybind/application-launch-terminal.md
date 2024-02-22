@@ -15,13 +15,13 @@ grand_parent: 設定
 * [設定片段](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/openbox/helper/share/gen/openbox-gen-rc/Section/Keybind/ApplicationLaunchTerminal.php#L16-L56)
 
 
-| 按鍵組合          | 功能         | 執行指令                     |
-| ----------------- | ------------- | --------------------------- |
-| `Alt + Enter`     | 開啟 Terminal | `qterminal`                 |
-| `Alt + Shift + a` | 開啟 Terminal | `qterminal`                 |
-| `Alt + Ctrl + a`  | 開啟 Terminal | `sakura -m` |
-| `Alt + Shift + t` | 開啟 Terminal | `xterm`                     |
-| `Alt + Ctrl + t`  | 開啟 Terminal | `xfce4-terminal --maximiz`                     |
+| 按鍵組合          | 功能           | 執行指令                    |
+| ----------------- | -------------- | --------------------------- |
+| `Alt + Enter`     | 開啟 Terminal  | `qterminal`                 |
+| `Alt + Shift + a` | 開啟 Terminal  | `qterminal`                 |
+| `Alt + Ctrl + a`  | 開啟 Terminal  | `sakura -m`                 |
+| `Alt + Shift + t` | 開啟 Terminal  | `konsole`                   |
+| `Alt + Ctrl + t`  | 開啟 Terminal  | `xfce4-terminal --maximiz`  |
 
 
 
