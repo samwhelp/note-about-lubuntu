@@ -212,6 +212,13 @@ theme=__aurorae__svg__Arc-Dark
 
 所以要調整「Kwin」的「[按鍵綁定(https://samwhelp.github.io/note-about-lubuntu/read/config/keybind/screenshot)」。
 
+| 按鍵組合        | 功能                  | 執行指令                   |
+| --------------- | --------------------- | -------------------------- |
+| `Print`         | 整個桌面螢幕截圖      | `screengrab --fullscreen`  |
+| `Alt + Print`   | 啟動螢幕截圖程式      | `screengrab`               |
+| `Win + Print`   | 目前視窗截圖          | `screengrab --active`      |
+| `Ctrl + Print`  | 選取螢幕畫面區塊截圖  | `screengrab --region`      |
+
 
 仿照「[/usr/share/applications/org.kde.spectacle.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/sample/orginal/org.kde.spectacle.desktop)」的作法。
 
