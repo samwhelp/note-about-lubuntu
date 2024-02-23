@@ -176,7 +176,9 @@ theme=__aurorae__svg__Arc-Dark
 
 指的就是「/usr/share/aurorae/themes/Arc-Dark」
 
-另外「Aurorae Theme」除了可以放在「/usr/share/aurorae/themes/」這個資料夾，也就是「**系統全域**」。
+另外「Aurorae Theme」放置的資料夾，
+
+除了可以放在「/usr/share/aurorae/themes/」這個資料夾，也就是「**系統全域**」。
 
 也可以放在「~/.local/share/aurorae/themes」，也就是「**個人區域**」。
 
