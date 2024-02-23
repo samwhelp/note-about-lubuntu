@@ -31,6 +31,7 @@ grand_parent: 如何
 * [安裝「Kwin」](#安裝kwin)
 * [關於「Kwin」設定檔](#關於kwin設定檔)
 * [設定「Window Decoration」](#設定window-decoration)
+* [設定「按鍵綁定」](#設定按鍵綁定)
 
 
 ## 安裝「Kwin」
@@ -182,3 +183,25 @@ theme=__aurorae__svg__Arc-Dark
 舉例我們可以在「GitHub」上找到「[vimix](https://github.com/vinceliuice/vimix-kde/tree/master/aurorae)」相關的「Aurorae Theme」。
 
 放在「~/.local/share/aurorae/themes」這個資料夾。
+
+
+## 設定「按鍵綁定」
+
+我是拿我之前在「Kde Plasma」的「[按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html#%E8%A8%AD%E5%AE%9A%E6%AA%94)」來做修改，
+
+也就是編輯「[~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc)」這個檔案。
+
+大致上，主軸的「[按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html)」是相同的，
+
+只是做一些細微的調整，符合「lxqt」的操作。
+
+例如
+
+| 按鍵組合 | 功能 | 指令
+| --- | --- | --- |
+| `Alt + Shift + x` | [Logout](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L209-L211) | `lxqt-leave --logout
+` |
+| `Alt + Shift + z` | [Leave](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L205-L207) | `lxqt-leave` |
+
+
+### 「螢幕截圖」的「按鍵綁定」
