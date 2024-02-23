@@ -205,3 +205,43 @@ theme=__aurorae__svg__Arc-Dark
 
 
 ### 「螢幕截圖」的「按鍵綁定」
+
+原本在「KDE Plasma」採用的「[螢幕截圖程式](https://samwhelp.github.io/note-about-kde/read/config/keybind/screenshot-control)」是「[Spectacle](https://apps.kde.org/spectacle/)」。
+
+我們要改成在「Lxqt」環境所採用的「ScreenGrab」。
+
+所以要調整「Kwin」的「[按鍵綁定(https://samwhelp.github.io/note-about-lubuntu/read/config/keybind/screenshot)」。
+
+
+仿照「[/usr/share/applications/org.kde.spectacle.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/sample/orginal/org.kde.spectacle.desktop)」的作法。
+
+複製「[/usr/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/sample/orginal/screengrab.desktop)」，
+
+到「~/.local/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop)」
+
+編輯「~/.local/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop)」，加入一些「Action」
+
+
+* [FullScreenScreenShot](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop#L99-L158)
+* [ActiveWindowScreenShot](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop#L168-L219)
+* [RectangularRegionScreenShot](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop#L221-L288)
+
+
+架構上的「設定片段」修改如下
+
+完整的請對照我修改過後的「~/.local/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop)」。
+
+``` ini
+[Desktop Entry]
+X-KDE-Shortcuts=Alt+Print
+Actions=FullScreenScreenShot;ActiveWindowScreenShot;RectangularRegionScreenShot;
+
+[Desktop Action FullScreenScreenShot]
+X-KDE-Shortcuts=Print
+
+[Desktop Action ActiveWindowScreenShot]
+X-KDE-Shortcuts=Meta+Print
+
+[Desktop Action RectangularRegionScreenShot]
+X-KDE-Shortcuts=Ctrl+Print
+```
