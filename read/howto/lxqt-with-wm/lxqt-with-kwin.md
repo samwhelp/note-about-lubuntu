@@ -282,10 +282,10 @@ _launch=Alt+Print,Alt+Print,ScreenGrab
 最後「第三個欄位」則是「顯示名稱」
 
 
-| Action                          | 第一個欄位    | 第二個欄位 | 第三個欄位 |
-| ------------------------------- | ------------- | ---------- | ---------- |
-|                                 | **設定值**    | **預設的按鍵綁定** | **顯示名稱** |
-| `_launch=`                      | `Alt+Print`   | `Alt+Print` | ScreenGrab |
-| `FullScreenScreenShot=`         | `Print`       | `Print` | Capture Entire Desktop |
-| `ActiveWindowScreenShot=`       | `Meta+Print`  | `Meta+Print` | Capture Active Window |
-| `RectangularRegionScreenShot=`  | `Ctrl+Print`  | `Ctrl+Print` | Capture Rectangular Region |
+| Action                          | 第一個欄位          | 第二個欄位          | 第三個欄位                  |
+| ------------------------------- | ------------------- | ------------------- | --------------------------- |
+|                                 | **按鍵綁定設定值**  | **預設的按鍵綁定**  | **顯示名稱**                |
+| `_launch=`                      | `Alt+Print`         | `Alt+Print`         | ScreenGrab                  |
+| `FullScreenScreenShot=`         | `Print`             | `Print`             | Capture Entire Desktop      |
+| `ActiveWindowScreenShot=`       | `Meta+Print`        | `Meta+Print`        | Capture Active Window       |
+| `RectangularRegionScreenShot=`  | `Ctrl+Print`        | `Ctrl+Print`        | Capture Rectangular Region  |
