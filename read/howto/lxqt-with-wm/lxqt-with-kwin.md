@@ -199,8 +199,8 @@ theme=__aurorae__svg__Arc-Dark
 
 例如
 
-| 按鍵組合 | 功能 | 指令
-| --- | --- | --- |
+| 按鍵組合 | 功能 | 執行指令 |
+| -------- | ---- | -------- |
 | `Alt + Shift + x` | [Logout](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L209-L211) | `lxqt-leave --logout` |
 | `Alt + Shift + z` | [Leave](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L205-L207) | `lxqt-leave` |
 
