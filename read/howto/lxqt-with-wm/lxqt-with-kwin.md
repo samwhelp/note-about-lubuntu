@@ -284,7 +284,7 @@ _launch=Alt+Print,Alt+Print,ScreenGrab
 
 | Action                          | 第一個欄位          | 第二個欄位          | 第三個欄位                  |
 | ------------------------------- | ------------------- | ------------------- | --------------------------- |
-|                                 | **按鍵綁定設定值**  | **預設的按鍵綁定**  | **顯示名稱**                |
+| 執行動作                        | **按鍵綁定設定值**  | **預設的按鍵綁定**  | **顯示名稱**                |
 | `_launch=`                      | `Alt+Print`         | `Alt+Print`         | ScreenGrab                  |
 | `FullScreenScreenShot=`         | `Print`             | `Print`             | Capture Entire Desktop      |
 | `ActiveWindowScreenShot=`       | `Meta+Print`        | `Meta+Print`        | Capture Active Window       |
