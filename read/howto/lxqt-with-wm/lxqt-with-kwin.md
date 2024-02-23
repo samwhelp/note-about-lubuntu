@@ -274,3 +274,18 @@ RectangularRegionScreenShot=Ctrl+Print,Ctrl+Print,Capture Rectangular Region
 _k_friendly_name=ScreenGrab
 _launch=Alt+Print,Alt+Print,ScreenGrab
 ```
+
+注意:「預設的按鍵綁定」是在「第二個欄位」，
+
+然而「第一個欄位」則是我們個人的設定，設定成「none」則是停用「預設的按鍵綁定」。
+
+最後「第三個欄位」則是「顯示名稱」
+
+
+| Action ｜第一個欄位 | 第二個欄位 | 第三個欄位 |
+| --- | --- | --- | --- |
+|  | **設定值** | **預設的按鍵綁定** | **顯示名稱** |
+| `_launch=` | `Alt+Print` | `Alt+Print` | ScreenGrab |
+| `FullScreenScreenShot=` | `Print` | `Print` | Capture Entire Desktop |
+| `ActiveWindowScreenShot=` | `Meta+Print` | `Meta+Print` | Capture Active Window |
+| `RectangularRegionScreenShot=` | `Ctrl+Print` | `Ctrl+Print` | Capture Rectangular Region |
