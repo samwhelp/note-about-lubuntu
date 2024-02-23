@@ -233,9 +233,7 @@ theme=__aurorae__svg__Arc-Dark
 * [RectangularRegionScreenShot](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop#L221-L288)
 
 
-架構上的「設定片段」修改如下
-
-完整的請對照我修改過後的「[~/.local/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop)」。
+架構上的「設定片段」修改如下，完整的請對照我修改過後的「[~/.local/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop)」。
 
 ``` ini
 [Desktop Entry]
