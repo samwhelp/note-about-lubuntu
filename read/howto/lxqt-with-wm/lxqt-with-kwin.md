@@ -191,7 +191,7 @@ theme=__aurorae__svg__Arc-Dark
 
 我是拿我之前在「Kde Plasma」的「[按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html#%E8%A8%AD%E5%AE%9A%E6%AA%94)」來做修改，
 
-也就是編輯「[~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc)」這個檔案。
+也就是使用「圖形介面程式 (shortcut)」搭配編輯「[~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc)」這個檔案。
 
 大致上，主軸的「[按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html)」是相同的，
 
