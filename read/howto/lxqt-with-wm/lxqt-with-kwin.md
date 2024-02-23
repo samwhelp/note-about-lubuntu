@@ -250,7 +250,6 @@ X-KDE-Shortcuts=Meta+Print
 
 [Desktop Action RectangularRegionScreenShot]
 X-KDE-Shortcuts=Ctrl+Print
-
 ```
 
 要注意的是在「`[Desktop Entry]`」這個區塊，
@@ -276,5 +275,4 @@ FullScreenScreenShot=Print,Print,Capture Entire Desktop
 RectangularRegionScreenShot=Ctrl+Print,Ctrl+Print,Capture Rectangular Region
 _k_friendly_name=ScreenGrab
 _launch=Alt+Print,Alt+Print,ScreenGrab
-
 ```
