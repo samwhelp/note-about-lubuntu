@@ -211,7 +211,7 @@ theme=__aurorae__svg__Arc-Dark
 
 我們要改成在「Lxqt」環境所採用的「ScreenGrab」。
 
-所以要調整「Kwin」的「[按鍵綁定(https://samwhelp.github.io/note-about-lubuntu/read/config/keybind/screenshot)」。
+所以要調整「Kwin」的「[按鍵綁定](https://samwhelp.github.io/note-about-lubuntu/read/config/keybind/screenshot)」。
 
 | 按鍵組合        | 功能                  | 執行指令                   |
 | --------------- | --------------------- | -------------------------- |
