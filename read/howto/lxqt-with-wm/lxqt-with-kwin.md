@@ -225,7 +225,7 @@ theme=__aurorae__svg__Arc-Dark
 
 複製「[/usr/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/sample/orginal/screengrab.desktop)」到「[~/.local/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop)」
 
-編輯「[~/.local/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop)」，加入一些「Action」
+編輯「[~/.local/share/applications/screengrab.desktop](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop)」，加入一些「Action」如下
 
 
 * [FullScreenScreenShot](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.local/share/applications/screengrab.desktop#L99-L158)
