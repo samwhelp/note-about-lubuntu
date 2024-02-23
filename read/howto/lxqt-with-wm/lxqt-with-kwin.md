@@ -254,11 +254,11 @@ X-KDE-Shortcuts=Ctrl+Print
 
 要注意的是在「`[Desktop Entry]`」這個區塊，
 
-要設定「Actions=FullScreenScreenShot;ActiveWindowScreenShot;RectangularRegionScreenShot;」，
+要設定「`Actions=FullScreenScreenShot;ActiveWindowScreenShot;RectangularRegionScreenShot;`」，
 
 也就是「Action」的列表。
 
-而「X-KDE-Shortcuts=」的作用，
+而「`X-KDE-Shortcuts=`」的作用，
 
 就是使用「圖形介面程式 (shortcut)」操作時，
 
