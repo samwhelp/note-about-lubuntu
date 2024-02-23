@@ -244,4 +244,31 @@ X-KDE-Shortcuts=Meta+Print
 
 [Desktop Action RectangularRegionScreenShot]
 X-KDE-Shortcuts=Ctrl+Print
+
+```
+
+要注意的是在「`[Desktop Entry]`」這個區塊，
+
+要設定「Actions=FullScreenScreenShot;ActiveWindowScreenShot;RectangularRegionScreenShot;」，
+
+也就是「Action」的列表。
+
+而「X-KDE-Shortcuts=」的作用，
+
+就是使用「圖形介面程式 (shortcut)」操作時，
+
+加入「ScreenGrab」這個「Application」，
+
+就會產生預設的「按鍵綁定」。
+
+也就是會在「[~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L323-L328)」這個檔案，加入如下的設定片段
+
+``` ini
+[screengrab.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
+FullScreenScreenShot=Print,Print,Capture Entire Desktop
+RectangularRegionScreenShot=Ctrl+Print,Ctrl+Print,Capture Rectangular Region
+_k_friendly_name=ScreenGrab
+_launch=Alt+Print,Alt+Print,ScreenGrab
+
 ```
