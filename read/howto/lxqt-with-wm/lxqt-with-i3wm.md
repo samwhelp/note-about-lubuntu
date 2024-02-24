@@ -26,4 +26,15 @@ grand_parent: 如何
 現在我們要來嘗試讓「lxqt」搭配「[i3wm](https://samwhelp.github.io/note-about-lubuntu/read/master/window-manager/i3wm.html)」。
 
 
-## 說明
+## 操作步驟
+
+* [安裝「I3wm」](#安裝i3wm)
+
+
+## 安裝「I3wm」
+
+執行下面指令，安裝「i3-wm」
+
+``` sh
+sudo apt-get install i3-wm
+```

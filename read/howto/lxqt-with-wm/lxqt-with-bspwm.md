@@ -31,7 +31,7 @@ grand_parent: 如何
 * [安裝「Bspwm」](#安裝bspwm)
 
 
-## 安裝「bspwm」
+## 安裝「Bspwm」
 
 執行下面指令，安裝「bspwm」和「sxhkd」
 

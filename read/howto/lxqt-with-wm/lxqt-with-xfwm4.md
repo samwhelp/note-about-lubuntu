@@ -26,4 +26,15 @@ grand_parent: 如何
 現在我們要來嘗試讓「lxqt」搭配「[xfwm4](https://samwhelp.github.io/note-about-lubuntu/read/master/window-manager/xfwm4.html)」。
 
 
-## 說明
+## 操作步驟
+
+* [安裝「Xfwm4」](#安裝xfwm4)
+
+
+## 安裝「Xfwm4」
+
+執行下面指令，安裝「xfwm4」
+
+``` sh
+sudo apt-get install xfwm4
+```
