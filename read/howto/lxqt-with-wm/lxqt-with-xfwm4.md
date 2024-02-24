@@ -29,6 +29,7 @@ grand_parent: 如何
 ## 操作步驟
 
 * [安裝「Xfwm4」](#安裝xfwm4)
+* [關於「Xfwm4」設定檔](#關於xfwm4設定檔)
 
 
 ## 安裝「Xfwm4」
@@ -38,3 +39,11 @@ grand_parent: 如何
 ``` sh
 sudo apt-get install xfwm4
 ```
+
+
+## 關於「Xfwm4」設定檔
+
+| 關於「Xfwm4」設定檔路徑 |
+| --- |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-xfwm4/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml) |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-xfwm4/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L159-L234) |
