@@ -29,6 +29,7 @@ grand_parent: 如何
 ## 操作步驟
 
 * [安裝「I3wm」](#安裝i3wm)
+* [關於「I3wm」設定檔](#關於i3wm設定檔)
 
 
 ## 安裝「I3wm」
@@ -38,3 +39,10 @@ grand_parent: 如何
 ``` sh
 sudo apt-get install i3-wm
 ```
+
+
+## 關於「I3wm」設定檔
+
+| 關於「I3wm」設定檔路徑 |
+| --- |
+| [~/.config/i3/config](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-i3wm/Main/asset/overlay/etc/skel/.config/i3/config) |
