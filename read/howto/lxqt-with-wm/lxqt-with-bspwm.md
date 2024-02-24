@@ -26,4 +26,15 @@ grand_parent: 如何
 現在我們要來嘗試讓「lxqt」搭配「[bspwm](https://samwhelp.github.io/note-about-lubuntu/read/master/window-manager/bspwm.html)」。
 
 
-## 說明
+## 操作步驟
+
+* [安裝「Bspwm」](#安裝bspwm)
+
+
+## 安裝「bspwm」
+
+執行下面指令，安裝「bspwm」和「sxhkd」
+
+``` sh
+sudo apt-get install bspwm sxhkd
+```
