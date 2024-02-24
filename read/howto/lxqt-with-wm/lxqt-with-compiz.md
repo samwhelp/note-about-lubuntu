@@ -36,19 +36,19 @@ grand_parent: 如何
 
 ## 安裝「Compiz」
 
-執行下面指令，安裝「compiz」
+執行下面指令，安裝「[compiz](https://packages.ubuntu.com/noble/compiz)」
 
 ``` sh
 sudo apt-get install compiz
 ```
 
-執行下面指令，安裝「compizconfig-settings-manager」
+執行下面指令，安裝「[compizconfig-settings-manager](https://packages.ubuntu.com/noble/compizconfig-settings-manager)」
 
 ``` sh
 sudo apt-get install compizconfig-settings-manager
 ```
 
-執行下面指令，安裝「compiz-plugins-main」和「compiz-plugins-extra」
+執行下面指令，安裝「[compiz-plugins-main](https://packages.ubuntu.com/noble/compiz-plugins-main)」和「[compiz-plugins-extra](https://packages.ubuntu.com/noble/compiz-plugins-extra)」
 
 ``` sh
 sudo apt-get install compiz-plugins-main compiz-plugins-extra

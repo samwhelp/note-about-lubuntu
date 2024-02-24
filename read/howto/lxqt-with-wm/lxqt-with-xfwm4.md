@@ -34,7 +34,7 @@ grand_parent: 如何
 
 ## 安裝「Xfwm4」
 
-執行下面指令，安裝「xfwm4」
+執行下面指令，安裝「[xfwm4](https://packages.ubuntu.com/noble/xfwm4)」
 
 ``` sh
 sudo apt-get install xfwm4

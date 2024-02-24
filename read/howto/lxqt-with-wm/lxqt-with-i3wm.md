@@ -34,7 +34,7 @@ grand_parent: 如何
 
 ## 安裝「I3wm」
 
-執行下面指令，安裝「i3-wm」
+執行下面指令，安裝「[i3-wm](https://packages.ubuntu.com/noble/i3-wm)」
 
 ``` sh
 sudo apt-get install i3-wm

@@ -36,13 +36,13 @@ grand_parent: 如何
 
 ## 安裝「Kwin」
 
-執行下面指令，安裝「kwin-x11」
+執行下面指令，安裝「[kwin-x11](https://packages.ubuntu.com/noble/kwin-x11)」
 
 ``` sh
 sudo apt-get install kwin-x11
 ```
 
-因為我會使用到一些「Kwin Plugin」，所以執行下面指令，安裝「kwin-addons」
+因為我會使用到一些「Kwin Plugin」，所以執行下面指令，安裝「[kwin-addons](https://packages.ubuntu.com/noble/kwin-addons)」
 
 ``` sh
 sudo apt-get install kwin-addons
