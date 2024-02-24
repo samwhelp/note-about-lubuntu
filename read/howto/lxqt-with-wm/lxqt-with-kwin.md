@@ -60,7 +60,7 @@ sudo apt-get install \
 
 
 
-## 安裝「Kwin」設定檔
+## 關於「Kwin」設定檔
 
 | 關於「Kwin」設定檔路徑 |
 | --- |
