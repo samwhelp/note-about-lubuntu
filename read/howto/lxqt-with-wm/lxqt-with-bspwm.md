@@ -29,6 +29,7 @@ grand_parent: 如何
 ## 操作步驟
 
 * [安裝「Bspwm」](#安裝bspwm)
+* [關於「Bspwm」設定檔](#關於bspwm設定檔)
 
 
 ## 安裝「Bspwm」
@@ -38,3 +39,11 @@ grand_parent: 如何
 ``` sh
 sudo apt-get install bspwm sxhkd
 ```
+
+
+## 關於「Bspwm」設定檔
+
+| 關於「Bspwm」設定檔路徑 |
+| --- |
+| [~/.config/bspwm/bspwmrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-bspwm/Main/asset/overlay/etc/skel/.config/bspwm/bspwmrc) |
+| [~/.config/bspwm/sxhkdrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-bspwm/Main/asset/overlay/etc/skel/.config/bspwm/sxhkdrc) |
