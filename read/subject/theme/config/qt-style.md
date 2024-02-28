@@ -45,7 +45,7 @@ style=Breeze
 
 所以會無法如預期的運作。
 
-若是遇到這種狀況，請參考另一篇的作法『[透過環境變數「QT_STYLE_OVERRIDE」，設定「Qt Style」](qt-style-by-QT_STYLE_OVERRIDE)』。
+若是遇到這種狀況，請參考另一篇的作法『[透過環境變數「QT_STYLE_OVERRIDE」，設定「Qt Style」](https://samwhelp.github.io/note-about-lubuntu/read/subject/theme/config/qt-style-by-QT_STYLE_OVERRIDE.html)』。
 
 
 ## 環境變數
