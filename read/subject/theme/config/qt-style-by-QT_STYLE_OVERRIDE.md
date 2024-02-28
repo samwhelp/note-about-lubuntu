@@ -1,6 +1,6 @@
 ---
-title: 設定「Qt Style」
-nav_order: 3101
+title: 透過環境變數「QT_STYLE_OVERRIDE」，設定「Qt Style」
+nav_order: 3102
 has_children: false
 parent: 設定
 grand_parent: 佈景主題
@@ -13,6 +13,7 @@ grand_parent: 佈景主題
 ## 主題
 
 * [lxqt-config-appearance](#lxqt-config-appearance)
+* [議題](#議題)
 * [環境變數](#環境變數)
 * [設定「Qt Style」採用「kvantum」](#設定qt-style採用kvantum)
 * [設定「Qt Style」採用「gtk2」](#設定qt-style採用gtk2)
@@ -39,13 +40,20 @@ grand_parent: 佈景主題
 style=Breeze
 ```
 
-另外我在「Lubuntu Daily Live System」測試時，
 
-發現有設定到「QT_STYLE_OVERRIDE」這個環境變數，
+## 議題
 
-所以會無法如預期的運作。
+不過我在「Lubuntu Daily Live System」測試過程中，
 
-若是遇到這種狀況，請參考另一篇的作法『[透過環境變數「QT_STYLE_OVERRIDE」，設定「Qt Style」](qt-style-by-QT_STYLE_OVERRIDE)』。
+發現「環境變數」有設定到「QT_STYLE_OVERRIDE」，
+
+目前在「Lubuntu Daily Live System」，我還找不到是在那裡有設定到「QT_STYLE_OVERRIDE」這個變數。
+
+我在「Debian」測試，以及在「Lubuntu」安裝後的系統測試，則是正常的
+
+所以我們以下的範例是透過設定「QT_STYLE_OVERRIDE」這個方式「環境變數」這個方式來設定，
+
+這個方式是原本「Qt Style Plugin」的設定方式。
 
 
 ## 環境變數
@@ -63,6 +71,7 @@ QT_ACCESSIBILITY=1
 SAL_VCL_QT5_USE_CAIRO=true
 LXQT_SESSION_CONFIG=session
 QT_QPA_PLATFORMTHEME=lxqt
+QT_STYLE_OVERRIDE=Breeze
 QT_IM_MODULE=fcitx
 QT_PLATFORM_PLUGIN=lxqt
 ```
@@ -71,35 +80,8 @@ QT_PLATFORM_PLUGIN=lxqt
 
 ``` sh
 QT_QPA_PLATFORMTHEME=lxqt
-QT_PLATFORM_PLUGIN=lxqt
+QT_STYLE_OVERRIDE=Breeze
 ```
-
-這兩個「環境變數」如何被設定的，
-
-可以在「/usr/bin/startlxqt」找到相關的「設定片段」如下
-
-
-``` sh
-
-...以上省略...
-
-# Qt4 platform plugin
-export QT_PLATFORM_PLUGIN=lxqt
-
-# Qt5 platform plugin
-export QT_QPA_PLATFORMTHEME=lxqt
-
-# use lxqt-applications.menu for main app menu
-export XDG_MENU_PREFIX="lxqt-"
-
-export XDG_CURRENT_DESKTOP="LXQt"
-
-# Start the LXQt session
-exec lxqt-session
-
-```
-
-
 
 
 ## 設定「Qt Style」採用「kvantum」
@@ -126,13 +108,31 @@ sudo apt-get install qt5-style-kvantum
 * Windows
 * Fusion
 
-舉例：我們可以下拉選擇「`kvantum`」，
+上面提到這個機制
 
-這個「設定值」，會被保存在「~/.config/lxqt/lxqt.conf」這個檔案，內容類似如下。
+因為在「Lubuntu Daily Live System」有設定到「QT_STYLE_OVERRIDE」，
+
+所以會無法如預期的運作。
+
+所以我們回歸到「環境變數」這個方式來設定，
+
+也就是我們要再複寫「QT_STYLE_OVERRIDE」這個「環境變數」。
+
+於是我們可以透過「`lxqt-config-session` (LXQt Session Settings)」這個「圖形介面程式」來操作。
+
+在「Environment (Advanced)」這個頁面，
+
+我們可以新增一個「環境變數」，
+
+名稱是「`QT_STYLE_OVERRIDE`」，
+
+設定值填入「`kvantum`」
+
+這個設定值，會被保存在「[~/.config/lxqt/session.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-compiz/Main/asset/overlay/etc/skel/.config/lxqt/session.conf#L9)」這個檔案，內容類似如下
 
 ``` ini
-[Qt]
-style=kvantum
+[Environment]
+QT_STYLE_OVERRIDE=kvantum
 ```
 
 在設定「kvantum」要採用的「佈景主題」前，
@@ -196,7 +196,7 @@ cat ~/.config/Kvantum/kvantum.kvconfig
 theme=ArcDark
 ```
 
-設定「Qt Style」採用「kvantum」就會生效。
+最後只要重新登出登入，設定「Qt Style」採用「kvantum」就會生效。
 
 爾後只要透過「`kvantummanager` (Kvantum Manager)」這個「圖形介面程式」來設定「kvantum」要採用的「佈景主題」。
 
@@ -238,16 +238,11 @@ sudo apt-get install qt5-style-plugins
 * Windows
 * Fusion
 
-如同上面設定「Qt Style」採用「kvantum」提到的方式，
+如同上面設定「Qt Style」採用「kvantum」提到的，
 
-只要下拉選擇「`gtk2`」就行了。
+我們回歸到「環境變數」的作法
 
-這個「設定值」，一樣會被保存在「~/.config/lxqt/lxqt.conf」這個檔案，內容類似如下。
-
-``` ini
-[Qt]
-style=gtk2
-```
+只要設定「`QT_STYLE_OVERRIDE=gtk2`」就行了。
 
 這樣「Qt Style」就會跟隨「gtk2」的設定。
 
