@@ -7,7 +7,7 @@ grand_parent: 佈景主題
 ---
 
 
-# 設定「Qt Style」
+# 透過環境變數「QT_STYLE_OVERRIDE」，設定「Qt Style」
 
 
 ## 主題
