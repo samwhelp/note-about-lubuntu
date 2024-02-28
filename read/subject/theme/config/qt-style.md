@@ -32,7 +32,7 @@ grand_parent: 佈景主題
 
 預設是採用「Breeze」。
 
-這個「設定值」，會被保存在「[~/.config/lxqt/lxqt.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/lxqt.conf#L18)」這個檔案，內容類似如下。
+這個「設定值」，會被保存在「[~/.config/lxqt/lxqt.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/lxqt.conf#L18)」這個檔案，設定片段類似如下。
 
 ``` ini
 [Qt]
@@ -128,7 +128,7 @@ sudo apt-get install qt5-style-kvantum
 
 舉例：我們可以下拉選擇「`kvantum`」，
 
-這個「設定值」，會被保存在「~/.config/lxqt/lxqt.conf」這個檔案，內容類似如下。
+這個「設定值」，會被保存在「~/.config/lxqt/lxqt.conf」這個檔案，設定片段類似如下。
 
 ``` ini
 [Qt]
@@ -242,7 +242,7 @@ sudo apt-get install qt5-style-plugins
 
 只要下拉選擇「`gtk2`」就行了。
 
-這個「設定值」，一樣會被保存在「~/.config/lxqt/lxqt.conf」這個檔案，內容類似如下。
+這個「設定值」，一樣會被保存在「~/.config/lxqt/lxqt.conf」這個檔案，設定片段類似如下。
 
 ``` ini
 [Qt]

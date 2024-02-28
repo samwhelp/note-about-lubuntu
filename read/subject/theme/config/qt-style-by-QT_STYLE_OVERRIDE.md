@@ -33,7 +33,7 @@ grand_parent: 佈景主題
 
 預設是採用「Breeze」。
 
-這個「設定值」，會被保存在「[~/.config/lxqt/lxqt.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/lxqt.conf#L18)」這個檔案，內容類似如下。
+這個「設定值」，會被保存在「[~/.config/lxqt/lxqt.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/lxqt.conf#L18)」這個檔案，設定片段類似如下。
 
 ``` ini
 [Qt]
