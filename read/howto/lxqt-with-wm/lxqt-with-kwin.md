@@ -425,3 +425,17 @@ LayoutName=coverswitch
 執行「`grep '"Id"' /usr/share/kwin/tabbox/*/*.json`」可以找到「Id」。
 
 執行「`grep '"Name"' /usr/share/kwin/tabbox/*/*.json`」可以找到「Name」。
+
+
+| Name              | Id                 |
+| ----------------- | ------------------ |
+| `Compact`         | `compact`          |
+| `Cover Switch`    | `coverswitch`      |
+| `Flip Switch`     | `flipswitch`       |
+| `Grid`            | `present_windows`  |
+| `Informative`     | `informative`      |
+| `Large Icons`     | `big_icons`        |
+| `Small Icons`     | `small_icons`      |
+| `Text Only`       | `text`             |
+| `Thumbnail Grid`  | `thumbnail_grid`   |
+| `Thumbnails`      | `thumbnails`       |
