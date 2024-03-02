@@ -488,4 +488,4 @@ systemsettings kcm_kwintabbox
 
 當啟動了「KDE System Settings」後，
 
-就會執行切換到「Window Management / Task Switcher」這個頁面。
+就會直接切換到「Window Management / Task Switcher」這個頁面。
