@@ -43,7 +43,7 @@ grand_parent: 如何
 sudo apt-get install kwin-x11
 ```
 
-因為我會使用到一些「Kwin Plugin」，所以執行下面指令，安裝「[kwin-addons](https://packages.ubuntu.com/noble/kwin-addons)」
+因為我們會使用到一些「Kwin Plugin」，所以執行下面指令，安裝「[kwin-addons](https://packages.ubuntu.com/noble/kwin-addons)」。會在下面『[關於「kwin-addons」](#關於kwin-addons)』解說。
 
 ``` sh
 sudo apt-get install kwin-addons
@@ -293,7 +293,35 @@ _launch=Alt+Print,Alt+Print,ScreenGrab
 
 ## 關於「kwin-addons」
 
+上面有提到，因為我們會使用到一些「Kwin Plugin」，所以安裝了「[kwin-addons](https://packages.ubuntu.com/noble/amd64/kwin-addons)」。
 
+在還沒有安裝「kwin-addons」之前，
+
+當啟動了「KDE System Settings」後，
+
+在「Window Management / Task Switcher」這個頁面，
+
+有兩個頁籤「Main」和「Alternative」，
+
+在「Visualization」有一個下拉選單，選項如下
+
+* 「Breeze」
+
+在安裝「kwin-addons」之後，下拉選單，選項會變成如下
+
+* 「Breeze」
+* 「Compact」
+* 「Cover Switch」
+* 「Flip Switch」
+* 「Grid」
+* 「Informative」
+* 「Large Icons」
+* 「Small Icons」
+* 「Text Only」
+* 「Thumbnail Grid」
+* 「Thumbnails」
+
+可以執行「`grep '"Name"' /usr/share/kwin/tabbox/*/*.json`」找到上面列出的「Name」。
 
 * Ubuntu Package / kwin-addons / [filelist](https://packages.ubuntu.com/noble/amd64/kwin-addons/filelist)
 
@@ -374,3 +402,26 @@ dpkg -L kwin-addons
 /usr/share/kwin/tabbox/thumbnails/contents/ui/main.qml
 /usr/share/kwin/tabbox/thumbnails/metadata.json
 ```
+
+我們在「Window Management / Task Switcher / **Main** / Visualization」下拉選單，選的是「**Large Icons**」
+
+會被紀錄在「[~/.config/kwinrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kwinrc#L55-L56)」，「設定片段」如下
+
+``` ini
+[TabBox]
+LayoutName=big_icons
+```
+
+我們在「Window Management / Task Switcher / **Alternative** / Visualization」下拉選單，選的是「**Cover Switch**」
+
+會被紀錄在「[~/.config/kwinrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kwinrc#L58-L59)」，「設定片段」如下
+
+``` ini
+[TabBoxAlternative]
+LayoutName=coverswitch
+```
+
+
+執行「`grep '"Id"' /usr/share/kwin/tabbox/*/*.json`」可以找到「Id」。
+
+執行「`grep '"Name"' /usr/share/kwin/tabbox/*/*.json`」可以找到「Name」。
