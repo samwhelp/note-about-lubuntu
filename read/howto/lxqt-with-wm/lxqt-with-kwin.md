@@ -443,8 +443,8 @@ LayoutName=coverswitch
 
 我們在「Window Management / Task Switcher / **Main** / Shortcuts / All Windows」
 
-* 在「Forward」設定的是「`Meta + S`」，也就是按鍵綁定「`Win + s`」
-* 在「Reverse」設定的是「`Meta + A`」，也就是按鍵綁定「`Win + a`」
+* 在「Forward」設定的是「`Meta + S`」，也就是按鍵綁定「`Win + s`」。
+* 在「Reverse」設定的是「`Meta + A`」，也就是按鍵綁定「`Win + a`」。
 
 會被紀錄在「[~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L123-L124)」，「設定片段」如下
 
@@ -455,8 +455,8 @@ Walk Through Windows (Reverse)=Meta+A,Alt+Shift+Backtab,Walk Through Windows (Re
 
 我們在「Window Management / Task Switcher / **Alternative** / Shortcuts / All Windows」
 
-* 在「Forward」設定的是「`Meta + Esc`」，也就是按鍵綁定「`Win + Esc`」
-* 在「Reverse」設定的是「`Alt + Esc`」，也就是按鍵綁定「`Alt + Esc`」
+* 在「Forward」設定的是「`Meta + Esc`」，也就是按鍵綁定「`Win + Esc`」。
+* 在「Reverse」設定的是「`Alt + Esc`」，也就是按鍵綁定「`Alt + Esc`」。
 
 會被紀錄在「[~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L125-L126)」，「設定片段」如下
 
