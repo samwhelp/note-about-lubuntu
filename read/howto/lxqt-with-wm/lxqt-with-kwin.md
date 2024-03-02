@@ -464,3 +464,28 @@ Walk Through Windows (Reverse)=Meta+A,Alt+Shift+Backtab,Walk Through Windows (Re
 Walk Through Windows Alternative=Meta+Esc,,Walk Through Windows Alternative
 Walk Through Windows Alternative (Reverse)=Alt+Esc,,Walk Through Windows Alternative (Reverse)
 ```
+
+
+關於「KDE System Settings / Window Management / Task Switcher」這個頁面。
+
+執行
+
+``` sh
+grep '^Exec=' /usr/share/applications/kcm_kwintabbox.desktop
+```
+
+顯示
+
+```
+Exec=systemsettings kcm_kwintabbox
+```
+
+所以直接執行下面指令
+
+``` sh
+systemsettings kcm_kwintabbox
+```
+
+當啟動了「KDE System Settings」後，
+
+就會執行切換到「Window Management / Task Switcher」這個頁面。
