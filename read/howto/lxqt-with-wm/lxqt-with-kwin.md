@@ -448,7 +448,7 @@ LayoutName=coverswitch
 
 會被紀錄在「[~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L123-L124)」，「設定片段」如下
 
-``` ini
+```
 Walk Through Windows=Meta+S,Alt+Tab,Walk Through Windows
 Walk Through Windows (Reverse)=Meta+A,Alt+Shift+Backtab,Walk Through Windows (Reverse)
 ```
@@ -460,7 +460,7 @@ Walk Through Windows (Reverse)=Meta+A,Alt+Shift+Backtab,Walk Through Windows (Re
 
 會被紀錄在「[~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L125-L126)」，「設定片段」如下
 
-``` ini
+```
 Walk Through Windows Alternative=Meta+Esc,,Walk Through Windows Alternative
 Walk Through Windows Alternative (Reverse)=Alt+Esc,,Walk Through Windows Alternative (Reverse)
 ```
