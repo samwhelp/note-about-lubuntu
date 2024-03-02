@@ -45,8 +45,6 @@ sudo apt-get install kwin-x11
 
 因為我們會使用到一些「Kwin Plugin」，所以執行下面指令，安裝「[kwin-addons](https://packages.ubuntu.com/noble/kwin-addons)」。
 
-會在下面『[關於「kwin-addons」](#關於kwin-addons)』解說。
-
 ``` sh
 sudo apt-get install kwin-addons
 ```
@@ -59,6 +57,8 @@ sudo apt-get install \
 	kwin-addons
 
 ```
+
+> 關於我們用到那些「Kwin Plugin」，會在下面『[關於「kwin-addons」](#關於kwin-addons)』解說。
 
 
 ## 關於「Kwin」設定檔
