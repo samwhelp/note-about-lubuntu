@@ -43,7 +43,9 @@ grand_parent: 如何
 sudo apt-get install kwin-x11
 ```
 
-因為我們會使用到一些「Kwin Plugin」，所以執行下面指令，安裝「[kwin-addons](https://packages.ubuntu.com/noble/kwin-addons)」。會在下面『[關於「kwin-addons」](#關於kwin-addons)』解說。
+因為我們會使用到一些「Kwin Plugin」，所以執行下面指令，安裝「[kwin-addons](https://packages.ubuntu.com/noble/kwin-addons)」。
+
+會在下面『[關於「kwin-addons」](#關於kwin-addons)』解說。
 
 ``` sh
 sudo apt-get install kwin-addons
