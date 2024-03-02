@@ -32,6 +32,7 @@ grand_parent: 如何
 * [關於「Kwin」設定檔](#關於kwin設定檔)
 * [設定「Window Decoration」](#設定window-decoration)
 * [設定「按鍵綁定」](#設定按鍵綁定)
+* [關於「kwin-addons」](#關於kwin-addons)
 
 
 ## 安裝「Kwin」
@@ -288,3 +289,88 @@ _launch=Alt+Print,Alt+Print,ScreenGrab
 | `FullScreenScreenShot=`         | `Print`             | `Print`             | Capture Entire Desktop      |
 | `ActiveWindowScreenShot=`       | `Meta+Print`        | `Meta+Print`        | Capture Active Window       |
 | `RectangularRegionScreenShot=`  | `Ctrl+Print`        | `Ctrl+Print`        | Capture Rectangular Region  |
+
+
+## 關於「kwin-addons」
+
+
+
+* Ubuntu Package / kwin-addons / [filelist](https://packages.ubuntu.com/noble/amd64/kwin-addons/filelist)
+
+執行
+
+``` sh
+dpkg -L kwin-addons
+```
+
+顯示
+
+```
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/kwin-addons
+/usr/share/doc/kwin-addons/changelog.Debian.gz
+/usr/share/doc/kwin-addons/copyright
+/usr/share/kwin
+/usr/share/kwin/desktoptabbox
+/usr/share/kwin/desktoptabbox/previews
+/usr/share/kwin/desktoptabbox/previews/contents
+/usr/share/kwin/desktoptabbox/previews/contents/ui
+/usr/share/kwin/desktoptabbox/previews/contents/ui/main.qml
+/usr/share/kwin/desktoptabbox/previews/metadata.json
+/usr/share/kwin/tabbox
+/usr/share/kwin/tabbox/big_icons
+/usr/share/kwin/tabbox/big_icons/contents
+/usr/share/kwin/tabbox/big_icons/contents/ui
+/usr/share/kwin/tabbox/big_icons/contents/ui/IconTabBox.qml
+/usr/share/kwin/tabbox/big_icons/contents/ui/main.qml
+/usr/share/kwin/tabbox/big_icons/metadata.json
+/usr/share/kwin/tabbox/compact
+/usr/share/kwin/tabbox/compact/contents
+/usr/share/kwin/tabbox/compact/contents/ui
+/usr/share/kwin/tabbox/compact/contents/ui/main.qml
+/usr/share/kwin/tabbox/compact/metadata.json
+/usr/share/kwin/tabbox/coverswitch
+/usr/share/kwin/tabbox/coverswitch/contents
+/usr/share/kwin/tabbox/coverswitch/contents/ui
+/usr/share/kwin/tabbox/coverswitch/contents/ui/main.qml
+/usr/share/kwin/tabbox/coverswitch/metadata.json
+/usr/share/kwin/tabbox/flipswitch
+/usr/share/kwin/tabbox/flipswitch/contents
+/usr/share/kwin/tabbox/flipswitch/contents/ui
+/usr/share/kwin/tabbox/flipswitch/contents/ui/main.qml
+/usr/share/kwin/tabbox/flipswitch/metadata.json
+/usr/share/kwin/tabbox/informative
+/usr/share/kwin/tabbox/informative/contents
+/usr/share/kwin/tabbox/informative/contents/ui
+/usr/share/kwin/tabbox/informative/contents/ui/main.qml
+/usr/share/kwin/tabbox/informative/metadata.json
+/usr/share/kwin/tabbox/present_windows
+/usr/share/kwin/tabbox/present_windows/contents
+/usr/share/kwin/tabbox/present_windows/contents/ui
+/usr/share/kwin/tabbox/present_windows/contents/ui/main.qml
+/usr/share/kwin/tabbox/present_windows/metadata.json
+/usr/share/kwin/tabbox/small_icons
+/usr/share/kwin/tabbox/small_icons/contents
+/usr/share/kwin/tabbox/small_icons/contents/ui
+/usr/share/kwin/tabbox/small_icons/contents/ui/IconTabBox.qml
+/usr/share/kwin/tabbox/small_icons/contents/ui/main.qml
+/usr/share/kwin/tabbox/small_icons/metadata.json
+/usr/share/kwin/tabbox/text
+/usr/share/kwin/tabbox/text/contents
+/usr/share/kwin/tabbox/text/contents/ui
+/usr/share/kwin/tabbox/text/contents/ui/main.qml
+/usr/share/kwin/tabbox/text/metadata.json
+/usr/share/kwin/tabbox/thumbnail_grid
+/usr/share/kwin/tabbox/thumbnail_grid/contents
+/usr/share/kwin/tabbox/thumbnail_grid/contents/ui
+/usr/share/kwin/tabbox/thumbnail_grid/contents/ui/main.qml
+/usr/share/kwin/tabbox/thumbnail_grid/metadata.json
+/usr/share/kwin/tabbox/thumbnails
+/usr/share/kwin/tabbox/thumbnails/contents
+/usr/share/kwin/tabbox/thumbnails/contents/ui
+/usr/share/kwin/tabbox/thumbnails/contents/ui/main.qml
+/usr/share/kwin/tabbox/thumbnails/metadata.json
+```
