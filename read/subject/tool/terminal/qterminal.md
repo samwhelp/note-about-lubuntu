@@ -33,7 +33,7 @@ grand_parent: 工具
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [qterminal](https://packages.ubuntu.com/noble/qterminal) |
 
 ``` sh
@@ -44,5 +44,5 @@ sudo apt-get install qterminal
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/qterminal.org/qterminal.ini](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/qterminal/asset/overlay/etc/skel/.config/qterminal.org/qterminal.ini) |

@@ -33,7 +33,7 @@ grand_parent: 工具
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [pcmanfm-qt](https://packages.ubuntu.com/noble/pcmanfm-qt) |
 
 ``` sh

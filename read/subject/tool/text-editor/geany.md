@@ -33,9 +33,19 @@ grand_parent: 工具
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [geany](https://packages.ubuntu.com/noble/geany) |
 
 ``` sh
 sudo apt-get install geany
 ```
+
+
+## Config File Path
+
+| Config File Path |
+| ---------------- |
+| [~/.config/geany/geany.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/geany.conf) |
+| [~/.config/geany/keybindings.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/keybindings.conf) |
+| [~/.config/geany/ui_toolbar.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/ui_toolbar.xml) |
+| [~/.config/geany/colorschemes/](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/colorschemes) |
