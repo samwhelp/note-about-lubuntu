@@ -13,8 +13,8 @@ grand_parent: 工具
 ## Subject
 
 * [微調腳本](#微調腳本)
-* [Debian Package Search](#debian-package-search)
-* [Debian Package](#debian-package)
+* [Ubuntu Package Search](#debian-package-search)
+* [Ubuntu Package](#debian-package)
 * [Config File Path](#config-file-path)
 
 
@@ -25,16 +25,16 @@ grand_parent: 工具
 | [featherpad](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/featherpad) |
 
 
-## Debian Package Search
+## Ubuntu Package Search
 
-* Debian Package Search: [featherpad](https://packages.debian.org/search?searchon=names&keywords=featherpad)
+* Ubuntu Package Search: [featherpad](https://packages.ubuntu.com/search?keywords=featherpad)
 
 
-## Debian Package
+## Ubuntu Package
 
-| Debian Package |
+| Ubuntu Package |
 | --- |
-| [featherpad](https://packages.debian.org/stable/featherpad) |
+| [featherpad](https://packages.ubuntu.com/noble/featherpad) |
 
 ``` sh
 sudo apt-get install featherpad
