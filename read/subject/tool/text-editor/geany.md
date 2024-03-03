@@ -16,6 +16,7 @@ grand_parent: 工具
 * [Ubuntu Package Search](#debian-package-search)
 * [Ubuntu Package](#debian-package)
 * [Config File Path](#config-file-path)
+* [Link](#link)
 
 
 ## 微調腳本
@@ -49,3 +50,11 @@ sudo apt-get install geany
 | [~/.config/geany/keybindings.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/keybindings.conf) |
 | [~/.config/geany/ui_toolbar.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/ui_toolbar.xml) |
 | [~/.config/geany/colorschemes/](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/colorschemes) |
+
+
+## Link
+
+| Link |
+| ---- |
+| [Geany Themes](https://www.geany.org/download/themes/) |
+| GitHub / [Ggeany-themes](https://github.com/geany/geany-themes) |
