@@ -239,16 +239,24 @@ theme=__aurorae__svg__Arc-Dark
 
 ``` ini
 [Desktop Entry]
+Name=ScreenGrab
+Exec=screengrab
 X-KDE-Shortcuts=Alt+Print
 Actions=FullScreenScreenShot;ActiveWindowScreenShot;RectangularRegionScreenShot;
 
 [Desktop Action FullScreenScreenShot]
+Name=Capture Entire Desktop
+Exec=screengrab --fullscreen
 X-KDE-Shortcuts=Print
 
 [Desktop Action ActiveWindowScreenShot]
+Name=Capture Active Window
+Exec=screengrab --active
 X-KDE-Shortcuts=Meta+Print
 
 [Desktop Action RectangularRegionScreenShot]
+Name=Capture Rectangular Region
+Exec=screengrab --region
 X-KDE-Shortcuts=Ctrl+Print
 ```
 
