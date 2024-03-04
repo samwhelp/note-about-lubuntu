@@ -22,7 +22,10 @@ has_children: true
 | [工具微調腳本](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config) |
 | --- |
 | [pcmanfm-qt](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
+| [featherpad](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/featherpad) |
+| [geany](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/geany) |
 | [qterminal](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |
+
 
 
 
