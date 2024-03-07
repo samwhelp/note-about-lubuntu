@@ -12,7 +12,7 @@ has_children: true
 
 | 微調腳本 |
 | --- |
-| [24.04](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Lubuntu 24.04](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main) |
 
 
 ## 按鍵綁定
