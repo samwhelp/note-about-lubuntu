@@ -30,7 +30,7 @@ grand_parent: 如何
 
 * [安裝「Kwin」](#安裝kwin)
 * [關於「Kwin」設定檔](#關於kwin設定檔)
-* [[設定「lxqt-session」採用「kwin_x11」](#設定lxqt-session採用kwin_x11)
+* [設定「lxqt-session」採用「kwin_x11」](#設定lxqt-session採用kwin_x11)
 * [設定「Window Decoration」](#設定window-decoration)
 * [設定「按鍵綁定」](#設定按鍵綁定)
 * [關於「kwin-addons」](#關於kwin-addons)

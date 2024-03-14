@@ -30,7 +30,7 @@ grand_parent: 如何
 
 * [安裝「Xfwm4」](#安裝xfwm4)
 * [關於「Xfwm4」設定檔](#關於xfwm4設定檔)
-* [[設定「lxqt-session」採用「xfwm4」](#設定lxqt-session採用xfwm4)
+* [設定「lxqt-session」採用「xfwm4」](#設定lxqt-session採用xfwm4)
 
 
 ## 安裝「Xfwm4」
