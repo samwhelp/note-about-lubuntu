@@ -30,7 +30,7 @@ grand_parent: 如何
 
 * [安裝「Bspwm」](#安裝bspwm)
 * [關於「Bspwm」設定檔](#關於bspwm設定檔)
-* [lxqt-session」採用「bspwm」](#設定lxqt-session採用bspwm)
+* [[設定「lxqt-session」採用「bspwm」](#設定lxqt-session採用bspwm)
 
 
 ## 安裝「Bspwm」

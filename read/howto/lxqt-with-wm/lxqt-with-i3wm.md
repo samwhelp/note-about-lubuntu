@@ -30,7 +30,7 @@ grand_parent: 如何
 
 * [安裝「I3wm」](#安裝i3wm)
 * [關於「I3wm」設定檔](#關於i3wm設定檔)
-* [lxqt-session」採用「i3」](#設定lxqt-session採用i3)
+* [[設定「lxqt-session」採用「i3」](#設定lxqt-session採用i3)
 
 
 ## 安裝「I3wm」
