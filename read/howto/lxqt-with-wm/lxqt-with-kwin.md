@@ -81,7 +81,8 @@ sudo apt-get install \
 | [~/.config/ktimezonedrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/ktimezonedrc) |
 
 
-## 設定「lxqt-session」採用「xfwm4」
+## 設定「lxqt-session」採用「kwin_x11
+」
 
 | 設定檔路徑 |
 | --- |
