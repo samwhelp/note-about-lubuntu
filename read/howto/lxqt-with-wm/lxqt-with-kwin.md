@@ -88,7 +88,7 @@ sudo apt-get install \
 | [~/.config/lxqt/session.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/lxqt/session.conf#L3) |
 
 
-* 設定檔片段
+* 設定片段
 
 ``` ini
 [General]
