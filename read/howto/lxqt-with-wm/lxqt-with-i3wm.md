@@ -30,6 +30,7 @@ grand_parent: 如何
 
 * [安裝「I3wm」](#安裝i3wm)
 * [關於「I3wm」設定檔](#關於i3wm設定檔)
+* [lxqt-session」採用「i3」](#設定lxqt-session採用i3)
 
 
 ## 安裝「I3wm」
@@ -46,3 +47,18 @@ sudo apt-get install i3-wm
 | 關於「I3wm」設定檔路徑 |
 | --- |
 | [~/.config/i3/config](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-i3wm/Main/asset/overlay/etc/skel/.config/i3/config) |
+
+
+## 設定「lxqt-session」採用「i3」
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/lxqt/session.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-i3wm/Main/asset/overlay/etc/skel/.config/lxqt/session.conf#L3) |
+
+
+* 設定檔片段
+
+``` ini
+[General]
+window_manager=i3
+```

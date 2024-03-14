@@ -30,6 +30,7 @@ grand_parent: 如何
 
 * [安裝「Xfwm4」](#安裝xfwm4)
 * [關於「Xfwm4」設定檔](#關於xfwm4設定檔)
+* [lxqt-session」採用「xfwm4」](#設定lxqt-session採用xfwm4)
 
 
 ## 安裝「Xfwm4」
@@ -47,3 +48,18 @@ sudo apt-get install xfwm4
 | --- |
 | [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-xfwm/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml) |
 | [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-xfwm/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L159-L234) |
+
+
+## 設定「lxqt-session」採用「xfwm4」
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/lxqt/session.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-xfwm/Main/asset/overlay/etc/skel/.config/lxqt/session.conf#L3) |
+
+
+* 設定檔片段
+
+``` ini
+[General]
+window_manager=xfwm4
+```

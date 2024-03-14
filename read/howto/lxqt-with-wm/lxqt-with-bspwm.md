@@ -30,6 +30,7 @@ grand_parent: 如何
 
 * [安裝「Bspwm」](#安裝bspwm)
 * [關於「Bspwm」設定檔](#關於bspwm設定檔)
+* [lxqt-session」採用「bspwm」](#設定lxqt-session採用bspwm)
 
 
 ## 安裝「Bspwm」
@@ -47,3 +48,18 @@ sudo apt-get install bspwm sxhkd
 | --- |
 | [~/.config/bspwm/bspwmrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-bspwm/Main/asset/overlay/etc/skel/.config/bspwm/bspwmrc) |
 | [~/.config/bspwm/sxhkdrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-bspwm/Main/asset/overlay/etc/skel/.config/bspwm/sxhkdrc) |
+
+
+## 設定「lxqt-session」採用「bspwm」
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/lxqt/session.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-bspwm/Main/asset/overlay/etc/skel/.config/lxqt/session.conf#L3) |
+
+
+* 設定檔片段
+
+``` ini
+[General]
+window_manager=bspwm
+```

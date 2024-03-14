@@ -30,6 +30,7 @@ grand_parent: 如何
 
 * [安裝「Kwin」](#安裝kwin)
 * [關於「Kwin」設定檔](#關於kwin設定檔)
+* [lxqt-session」採用「kwin_x11」](#設定lxqt-session採用kwin_x11)
 * [設定「Window Decoration」](#設定window-decoration)
 * [設定「按鍵綁定」](#設定按鍵綁定)
 * [關於「kwin-addons」](#關於kwin-addons)
@@ -78,6 +79,21 @@ sudo apt-get install \
 | [~/.config/kaccessrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kaccessrc) |
 | [~/.config/krunnerrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/krunnerrc) |
 | [~/.config/ktimezonedrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/ktimezonedrc) |
+
+
+## 設定「lxqt-session」採用「xfwm4」
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/lxqt/session.conf](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/lxqt/session.conf#L3) |
+
+
+* 設定檔片段
+
+``` ini
+[General]
+window_manager=kwin_x11
+```
 
 
 ## 設定「Window Decoration」
