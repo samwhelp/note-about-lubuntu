@@ -107,6 +107,7 @@
 | ---- | ------ |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
 | [Theme 探索筆記](https://samwhelp.github.io/note-about-theme/) | [GitHub](https://github.com/samwhelp/note-about-theme) |
 | [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
 | [Xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/) | [GitHub](https://github.com/samwhelp/note-about-xfce) |
