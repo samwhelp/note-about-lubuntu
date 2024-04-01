@@ -1,5 +1,5 @@
 ---
-title: fcitx5-chewing
+title: 如何安裝「新酷音輸入法」
 nav_order: 3101
 has_children: false
 parent: fcitx5
@@ -7,7 +7,11 @@ grand_parent: 輸入法
 ---
 
 
-# fcitx5-chewing
+# 如何安裝「新酷音輸入法」
+
+> 如何安裝「fcitx5-chewing」
+
+
 
 
 ## 微調腳本

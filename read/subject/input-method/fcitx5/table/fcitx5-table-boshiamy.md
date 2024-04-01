@@ -1,5 +1,5 @@
 ---
-title: fcitx5-table-boshiamy
+title: 如何安裝「嘸蝦米輸入法」
 nav_order: 3201
 has_children: false
 parent: fcitx5
@@ -7,7 +7,11 @@ grand_parent: 輸入法
 ---
 
 
-# fcitx5-table-boshiamy
+# 如何安裝「嘸蝦米輸入法」
+
+> 如何安裝「fcitx5-table-boshiamy」
+
+
 
 
 ## 微調腳本
@@ -31,7 +35,7 @@ sudo apt-get install im-config
 sudo apt-get install fcitx5
 ```
 
-執行下面指令，安裝「fcitx5-table-boshiamy」和「fcitx5-chinese-addons」。
+執行下面指令，安裝「[fcitx5-table-boshiamy](https://packages.ubuntu.com/noble/fcitx5-table-boshiamy)」和「[fcitx5-chinese-addons](https://packages.ubuntu.com/noble/fcitx5-chinese-addons)」。
 
 ``` sh
 sudo apt-get install fcitx5-table-boshiamy fcitx5-chinese-addons
@@ -125,3 +129,12 @@ run_im fcitx5
 ```
 
 主要是「`run_im fcitx5`」這一行。
+
+
+
+
+## 相關議題
+
+| 相關議題 |
+| --- |
+| [如何簡易安裝「fcitx5-table-boshiamy」](https://samwhelp.github.io/note-about-ubuntu/read/subject/im/fcitx5/howto/install-fcitx5-table-boshiamy.html) |
