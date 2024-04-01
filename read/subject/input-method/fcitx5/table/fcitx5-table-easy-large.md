@@ -9,7 +9,7 @@ grand_parent: 輸入法
 
 # 如何安裝「輕鬆輸入法」
 
-> 如何安裝「fcitx5-table-easy-large」
+> 如何安裝「[fcitx5-table-easy-large](https://packages.ubuntu.com/noble/fcitx5-table-easy-large)」
 
 
 

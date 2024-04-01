@@ -9,7 +9,7 @@ grand_parent: 輸入法
 
 # 如何安裝「嘸蝦米輸入法」
 
-> 如何安裝「fcitx5-table-boshiamy」
+> 如何安裝「[fcitx5-table-boshiamy](https://packages.ubuntu.com/noble/fcitx5-table-boshiamy)」
 
 
 

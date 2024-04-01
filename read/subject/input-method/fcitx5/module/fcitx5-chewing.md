@@ -9,7 +9,7 @@ grand_parent: 輸入法
 
 # 如何安裝「新酷音輸入法」
 
-> 如何安裝「fcitx5-chewing」
+> 如何安裝「[fcitx5-chewing](https://packages.ubuntu.com/noble/fcitx5-chewing)」
 
 
 
