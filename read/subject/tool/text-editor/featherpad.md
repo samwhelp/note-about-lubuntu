@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [featherpad](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/tool/featherpad) |
+| [featherpad](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/featherpad) |
 
 
 ## Ubuntu Package Search

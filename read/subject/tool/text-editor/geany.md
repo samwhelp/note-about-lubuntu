@@ -23,7 +23,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [geany](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/tool/geany) |
+| [geany](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/tool-config/part/geany) |
 
 
 ## Ubuntu Package Search
