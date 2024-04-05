@@ -13,8 +13,8 @@ grand_parent: 工具
 ## Subject
 
 * [微調腳本](#微調腳本)
-* [Ubuntu Package Search](#debian-package-search)
-* [Ubuntu Package](#debian-package)
+* [Ubuntu Package Search](#ubuntu-package-search)
+* [Ubuntu Package](#ubuntu-package)
 * [Config File Path](#config-file-path)
 
 
@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [featherpad](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/featherpad) |
+| [featherpad](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/tool/featherpad) |
 
 
 ## Ubuntu Package Search

@@ -13,8 +13,8 @@ grand_parent: 工具
 ## Subject
 
 * [微調腳本](#微調腳本)
-* [Ubuntu Package Search](#debian-package-search)
-* [Ubuntu Package](#debian-package)
+* [Ubuntu Package Search](#ubuntu-package-search)
+* [Ubuntu Package](#ubuntu-package)
 * [Config File Path](#config-file-path)
 * [Link](#link)
 
@@ -23,7 +23,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [geany](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/geany) |
+| [geany](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/tool/geany) |
 
 
 ## Ubuntu Package Search
