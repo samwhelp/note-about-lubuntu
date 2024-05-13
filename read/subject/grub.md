@@ -73,7 +73,7 @@ sudo cp -rf "./tmp/grub-theme-glass-remix-main/." "/boot/grub/themes/grub-theme-
 
 ```
 GRUB_BACKGROUND='/boot/grub/themes/grub-theme-glass-remix/background.jpg'
-GRUB_THEME="/boot/grub/themes/grub-theme-glass-remix/theme.txt"
+GRUB_THEME='/boot/grub/themes/grub-theme-glass-remix/theme.txt'
 ```
 
 或是產生「`/etc/default/grub.d/theme.cfg`」這個檔案, 執行
@@ -87,7 +87,7 @@ sudo mkdir -p /etc/default/grub.d
 ## 產生「`/etc/default/grub.d/theme.cfg`」這個檔案
 cat << EOF | sudo tee /etc/default/grub.d/theme.cfg
 GRUB_BACKGROUND='/boot/grub/themes/grub-theme-glass-remix/background.jpg'
-GRUB_THEME="/boot/grub/themes/grub-theme-glass-remix/theme.txt"
+GRUB_THEME='/boot/grub/themes/grub-theme-glass-remix/theme.txt'
 
 EOF
 
