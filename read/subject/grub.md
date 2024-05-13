@@ -93,6 +93,7 @@ EOF
 
 ```
 
+> 為何要同時設定「`GRUB_THEME`」和「`GRUB_BACKGROUND`」，請參考「[另一篇](https://samwhelp.github.io/note-about-grub/read/howto/use_background_image.html)」的說明。
 
 > 接著上面的步驟完成後，一定要執行下面的步驟，
 
