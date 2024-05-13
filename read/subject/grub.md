@@ -71,7 +71,7 @@ sudo cp -rf "./tmp/grub-theme-glass-remix-main/." "/boot/grub/themes/grub-theme-
 
 可以編輯「`/etc/default/grub`」這個檔案，內容如下
 
-```
+``` sh
 GRUB_BACKGROUND='/boot/grub/themes/grub-theme-glass-remix/background.jpg'
 GRUB_THEME='/boot/grub/themes/grub-theme-glass-remix/theme.txt'
 ```
