@@ -1,7 +1,7 @@
 ---
 title: GRUB
 nav_order: 3060
-has_children: true
+has_children: false
 ---
 
 
