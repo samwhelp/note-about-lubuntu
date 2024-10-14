@@ -29,7 +29,7 @@
 | 微調腳本 |
 | -------- |
 | [Lubuntu 24.04](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main) |
-
+| [Lubuntu 24.10](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/24.10/lxqt-config/Main) |
 
 
 

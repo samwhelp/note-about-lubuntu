@@ -8,6 +8,17 @@ has_children: false
 # 連結
 
 
+
+
+## News
+
+* [Lubuntu 24.10 (Oracular Oriole) Released!](https://lubuntu.me/lubuntu-24-10-oracular-oriole-released/)
+* [Lubuntu 24.04.1 LTS is Released!](https://lubuntu.me/noble-1-released/)
+* [Lubuntu 24.04 LTS Released!](https://lubuntu.me/noble-released/)
+
+
+
+
 ## Lubuntu
 
 | Link |
