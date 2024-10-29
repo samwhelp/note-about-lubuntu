@@ -10,6 +10,11 @@ grand_parent: 如何
 # 設定「Lxqt」搭配「Kwin」
 
 
+> 更多請參考「[Lubuntu / Lxqt with Kwin / 探索筆記](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/)」。
+
+
+
+
 ## 微調腳本
 
 | 微調腳本 |
