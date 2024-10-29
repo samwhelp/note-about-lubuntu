@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Lubuntu Adjustment](https://samwhelp.github.io/lubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/lubuntu-adjustment) |
 | [Lubuntu 探索筆記](https://samwhelp.github.io/note-about-lubuntu/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu) |
+| [Lubuntu / Lxqt with Kwin / 探索筆記](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu-lxqt-with-kwin) |
 
 
 
