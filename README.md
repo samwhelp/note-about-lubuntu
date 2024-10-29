@@ -9,6 +9,9 @@
 | [Lubuntu / Lxqt with Kwin / 探索筆記](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu-lxqt-with-kwin) |
 
 
+> 目前這個筆記，主要是以「`Lxqt 搭配 Openbox`」為基礎撰寫，若是要了解「`Lxqt 搭配 Kwin`」，請參考「[Lubuntu / Lxqt with Kwin / 探索筆記](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/)」。
+
+
 
 
 ## 主題
