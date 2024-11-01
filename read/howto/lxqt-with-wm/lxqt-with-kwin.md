@@ -22,6 +22,8 @@ grand_parent: 如何
 | [lxqt-with-kwin](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/alternative-config/lxqt-with-kwin/Main) |
 
 
+
+
 ## 前提
 
 目前「Lubuntu」是採用「lxqt」這個「桌面環境」，
@@ -29,6 +31,8 @@ grand_parent: 如何
 搭配「openbox」這個「視窗管理器」。
 
 現在我們要來嘗試讓「lxqt」搭配「[kwin](https://samwhelp.github.io/note-about-lubuntu/read/master/window-manager/kwin.html)」。
+
+
 
 
 ## 操作步驟
@@ -39,6 +43,8 @@ grand_parent: 如何
 * [設定「Window Decoration」](#設定window-decoration)
 * [設定「按鍵綁定」](#設定按鍵綁定)
 * [關於「kwin-addons」](#關於kwin-addons)
+
+
 
 
 ## 安裝「Kwin」
@@ -67,16 +73,20 @@ sudo apt-get install \
 > 關於我們用到那些「Kwin Plugin」，會在下面『[關於「kwin-addons」](#關於kwin-addons)』解說。
 
 
+
+
 ## 關於「Kwin」設定檔
 
 | 關於「Kwin」設定檔路徑 |
 | --- |
+| [~/.config/kwinrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kwinrc) |
 | [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc) |
 | [~/.config/kactivitymanagerdrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kactivitymanagerdrc) |
-| [~/.config/kwinrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kwinrc) |
 
 
-| 關於「Kwin」設定檔路徑 |
+
+
+| 跟「KDE」相關的設定檔路徑 |
 | --- |
 | [~/.config/kdeglobals](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kdeglobals) |
 | [~/.config/plasmarc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/plasmarc) |
@@ -84,6 +94,8 @@ sudo apt-get install \
 | [~/.config/kaccessrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kaccessrc) |
 | [~/.config/krunnerrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/krunnerrc) |
 | [~/.config/ktimezonedrc](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/ktimezonedrc) |
+
+
 
 
 ## 設定「lxqt-session」採用「kwin_x11」
@@ -99,6 +111,8 @@ sudo apt-get install \
 [General]
 window_manager=kwin_x11
 ```
+
+
 
 
 ## 設定「Window Decoration」
@@ -210,6 +224,8 @@ theme=__aurorae__svg__Arc-Dark
 放在「~/.local/share/aurorae/themes」這個資料夾。
 
 
+
+
 ## 設定「按鍵綁定」
 
 我是拿我之前在「Kde Plasma」的「[按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html#%E8%A8%AD%E5%AE%9A%E6%AA%94)」來做修改，
@@ -226,6 +242,8 @@ theme=__aurorae__svg__Arc-Dark
 | -------- | ---- | -------- |
 | `Alt + Shift + x` | [Logout](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L209-L211) | `lxqt-leave --logout` |
 | `Alt + Shift + z` | [Leave](https://github.com/samwhelp/lubuntu-adjustment/blob/main/prototype/main/alternative-config/lxqt-with-kwin/Main/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L205-L207) | `lxqt-leave` |
+
+
 
 
 ### 「螢幕截圖」的「按鍵綁定」
@@ -320,6 +338,8 @@ _launch=Alt+Print,Alt+Print,ScreenGrab
 | `FullScreenScreenShot=`         | `Print`             | `Print`             | Capture Entire Desktop      |
 | `ActiveWindowScreenShot=`       | `Meta+Print`        | `Meta+Print`        | Capture Active Window       |
 | `RectangularRegionScreenShot=`  | `Ctrl+Print`        | `Ctrl+Print`        | Capture Rectangular Region  |
+
+
 
 
 ## 關於「kwin-addons」
