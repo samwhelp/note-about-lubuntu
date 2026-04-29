@@ -32,8 +32,9 @@
 
 | 微調腳本 |
 | -------- |
-| [Lubuntu 24.04](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main) |
-| [Lubuntu 24.10](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/24.10/lxqt-config/Main) |
+| [Lxqt Config](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
+
 
 
 
@@ -106,6 +107,8 @@
 | [設定「Lxqt」搭配「Bspwm」](https://samwhelp.github.io/note-about-lubuntu/read/howto/lxqt-with-wm/lxqt-with-bspwm.html) |
 
 
+
+
 ## 相關筆記
 
 | Link | GitHub |
@@ -120,3 +123,10 @@
 | [Compiz 探索筆記](https://samwhelp.github.io/note-about-compiz/) | [GitHub](https://github.com/samwhelp/note-about-compiz) |
 | [I3wm 探索筆記](https://samwhelp.github.io/note-about-i3wm/) | [GitHub](https://github.com/samwhelp/note-about-i3wm) |
 | [Bspwm 探索筆記](https://samwhelp.github.io/note-about-bspwm/) | [GitHub](https://github.com/samwhelp/note-about-bspwm) |
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
