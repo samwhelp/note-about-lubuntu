@@ -32,7 +32,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Lxqt Config](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Lxqt Config](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/lxqt-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
